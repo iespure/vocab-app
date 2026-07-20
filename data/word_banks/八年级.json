@@ -1,0 +1,1056 @@
+{
+  "grade": "八年级",
+  "description": "人教版八年级（初二）",
+  "words": [
+    {
+      "word": "abroad",
+      "meaning": "在国外",
+      "example": "Study abroad."
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席的",
+      "example": "He is absent today."
+    },
+    {
+      "word": "achieve",
+      "meaning": "达到；实现",
+      "example": "Achieve success."
+    },
+    {
+      "word": "actual",
+      "meaning": "实际的；真实的",
+      "example": "The actual cost."
+    },
+    {
+      "word": "adult",
+      "meaning": "成年人",
+      "example": "Only adults allowed."
+    },
+    {
+      "word": "advise",
+      "meaning": "劝告；建议",
+      "example": "I advise you to wait."
+    },
+    {
+      "word": "affect",
+      "meaning": "影响",
+      "example": "It affects everyone."
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地",
+      "example": "Read aloud."
+    },
+    {
+      "word": "altogether",
+      "meaning": "总共；完全",
+      "example": "Altogether, it is good."
+    },
+    {
+      "word": "anger",
+      "meaning": "愤怒",
+      "example": "Control your anger."
+    },
+    {
+      "word": "announce",
+      "meaning": "宣布；宣告",
+      "example": "Announce the result."
+    },
+    {
+      "word": "appear",
+      "meaning": "出现；似乎",
+      "example": "He appears to be happy."
+    },
+    {
+      "word": "appetite",
+      "meaning": "胃口；食欲",
+      "example": "I have no appetite."
+    },
+    {
+      "word": "application",
+      "meaning": "申请；应用",
+      "example": "Fill in the application."
+    },
+    {
+      "word": "argue",
+      "meaning": "争论",
+      "example": "Stop arguing!"
+    },
+    {
+      "word": "argument",
+      "meaning": "争论；论据",
+      "example": "A strong argument."
+    },
+    {
+      "word": "army",
+      "meaning": "军队",
+      "example": "Join the army."
+    },
+    {
+      "word": "arrange",
+      "meaning": "安排；整理",
+      "example": "Arrange a meeting."
+    },
+    {
+      "word": "art",
+      "meaning": "艺术；美术",
+      "example": "Art class."
+    },
+    {
+      "word": "asleep",
+      "meaning": "睡着的",
+      "example": "Fast asleep."
+    },
+    {
+      "word": "attack",
+      "meaning": "攻击",
+      "example": "Under attack."
+    },
+    {
+      "word": "attempt",
+      "meaning": "尝试；试图",
+      "example": "An attempt to escape."
+    },
+    {
+      "word": "attract",
+      "meaning": "吸引",
+      "example": "Attract attention."
+    },
+    {
+      "word": "audience",
+      "meaning": "观众；听众",
+      "example": "The audience clapped."
+    },
+    {
+      "word": "available",
+      "meaning": "可用的；有空的",
+      "example": "Is it available?"
+    },
+    {
+      "word": "average",
+      "meaning": "平均的；普通的",
+      "example": "Above average."
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免；回避",
+      "example": "Avoid mistakes."
+    },
+    {
+      "word": "background",
+      "meaning": "背景",
+      "example": "Family background."
+    },
+    {
+      "word": "balance",
+      "meaning": "平衡",
+      "example": "Keep your balance."
+    },
+    {
+      "word": "bamboo",
+      "meaning": "竹子",
+      "example": "Pandas eat bamboo."
+    },
+    {
+      "word": "band",
+      "meaning": "乐队；带子",
+      "example": "A rock band."
+    },
+    {
+      "word": "base",
+      "meaning": "基础；基地",
+      "example": "At the base of the mountain."
+    },
+    {
+      "word": "bath",
+      "meaning": "洗澡；浴室",
+      "example": "Take a bath."
+    },
+    {
+      "word": "battle",
+      "meaning": "战斗；战役",
+      "example": "Win the battle."
+    },
+    {
+      "word": "beach",
+      "meaning": "海滩",
+      "example": "Walk on the beach."
+    },
+    {
+      "word": "bear",
+      "meaning": "忍受；熊",
+      "example": "I can't bear it."
+    },
+    {
+      "word": "behave",
+      "meaning": "表现",
+      "example": "Behave yourself."
+    },
+    {
+      "word": "behaviour",
+      "meaning": "行为；举止",
+      "example": "Good behaviour."
+    },
+    {
+      "word": "behind",
+      "meaning": "在……后面",
+      "example": "Stay behind."
+    },
+    {
+      "word": "belief",
+      "meaning": "信念；信仰",
+      "example": "A strong belief."
+    },
+    {
+      "word": "belong",
+      "meaning": "属于",
+      "example": "I belong here."
+    },
+    {
+      "word": "bend",
+      "meaning": "弯曲",
+      "example": "Bend your knees."
+    },
+    {
+      "word": "benefit",
+      "meaning": "利益；好处",
+      "example": "For your benefit."
+    },
+    {
+      "word": "bet",
+      "meaning": "打赌",
+      "example": "I bet you can't."
+    },
+    {
+      "word": "beyond",
+      "meaning": "超越；在……之外",
+      "example": "Beyond my reach."
+    },
+    {
+      "word": "bitter",
+      "meaning": "苦的；痛苦的",
+      "example": "A bitter taste."
+    },
+    {
+      "word": "blame",
+      "meaning": "责备",
+      "example": "Don't blame others."
+    },
+    {
+      "word": "bored",
+      "meaning": "无聊的",
+      "example": "I feel bored."
+    },
+    {
+      "word": "born",
+      "meaning": "天生的；出生",
+      "example": "A born leader."
+    },
+    {
+      "word": "borrow",
+      "meaning": "借入",
+      "example": "May I borrow your pen?"
+    },
+    {
+      "word": "bottom",
+      "meaning": "底部",
+      "example": "From the bottom."
+    },
+    {
+      "word": "brave",
+      "meaning": "勇敢的",
+      "example": "A brave soldier."
+    },
+    {
+      "word": "breath",
+      "meaning": "呼吸；气息",
+      "example": "Take a deep breath."
+    },
+    {
+      "word": "breathe",
+      "meaning": "呼吸",
+      "example": "Breathe slowly."
+    },
+    {
+      "word": "broadcast",
+      "meaning": "广播；播放",
+      "example": "Broadcast news."
+    },
+    {
+      "word": "burn",
+      "meaning": "燃烧",
+      "example": "Paper burns easily."
+    },
+    {
+      "word": "burst",
+      "meaning": "爆发；突然",
+      "example": "Burst into tears."
+    },
+    {
+      "word": "bury",
+      "meaning": "埋葬；掩埋",
+      "example": "Bury the treasure."
+    },
+    {
+      "word": "cabbage",
+      "meaning": "卷心菜",
+      "example": "Fried cabbage."
+    },
+    {
+      "word": "camera",
+      "meaning": "照相机",
+      "example": "Digital camera."
+    },
+    {
+      "word": "candle",
+      "meaning": "蜡烛",
+      "example": "Light a candle."
+    },
+    {
+      "word": "career",
+      "meaning": "职业；生涯",
+      "example": "Choose a career."
+    },
+    {
+      "word": "cartoon",
+      "meaning": "卡通；漫画",
+      "example": "Watch a cartoon."
+    },
+    {
+      "word": "case",
+      "meaning": "情况；案例；箱子",
+      "example": "In any case."
+    },
+    {
+      "word": "castle",
+      "meaning": "城堡",
+      "example": "A magic castle."
+    },
+    {
+      "word": "cause",
+      "meaning": "原因；造成",
+      "example": "Cause trouble."
+    },
+    {
+      "word": "central",
+      "meaning": "中心的；中央的",
+      "example": "Central Park."
+    },
+    {
+      "word": "certainly",
+      "meaning": "当然；一定",
+      "example": "Certainly not."
+    },
+    {
+      "word": "chain",
+      "meaning": "链子；链条；连锁",
+      "example": "A food chain."
+    },
+    {
+      "word": "chairman",
+      "meaning": "主席；董事长",
+      "example": "The chairman spoke."
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战",
+      "example": "Accept the challenge."
+    },
+    {
+      "word": "champion",
+      "meaning": "冠军",
+      "example": "World champion."
+    },
+    {
+      "word": "chance",
+      "meaning": "机会；可能性",
+      "example": "By chance."
+    },
+    {
+      "word": "channel",
+      "meaning": "频道；渠道；海峡",
+      "example": "What channel is it?"
+    },
+    {
+      "word": "charge",
+      "meaning": "收费；指控；负责",
+      "example": "Free of charge."
+    },
+    {
+      "word": "chat",
+      "meaning": "聊天",
+      "example": "Chat online."
+    },
+    {
+      "word": "cheat",
+      "meaning": "欺骗；作弊",
+      "example": "Don't cheat."
+    },
+    {
+      "word": "cheque",
+      "meaning": "支票",
+      "example": "Write a cheque."
+    },
+    {
+      "word": "chief",
+      "meaning": "主要的；首领",
+      "example": "Chief engineer."
+    },
+    {
+      "word": "chimney",
+      "meaning": "烟囱",
+      "example": "Santa comes down the chimney."
+    },
+    {
+      "word": "choice",
+      "meaning": "选择",
+      "example": "Make a choice."
+    },
+    {
+      "word": "church",
+      "meaning": "教堂",
+      "example": "Go to church."
+    },
+    {
+      "word": "cigarette",
+      "meaning": "香烟",
+      "example": "No smoking cigarettes."
+    },
+    {
+      "word": "citizen",
+      "meaning": "市民；公民",
+      "example": "A good citizen."
+    },
+    {
+      "word": "claim",
+      "meaning": "声称；要求",
+      "example": "Claim your prize."
+    },
+    {
+      "word": "classical",
+      "meaning": "古典的",
+      "example": "Classical music."
+    },
+    {
+      "word": "climate",
+      "meaning": "气候",
+      "example": "Climate change."
+    },
+    {
+      "word": "clinic",
+      "meaning": "诊所；门诊部",
+      "example": "Go to the clinic."
+    },
+    {
+      "word": "clone",
+      "meaning": "克隆",
+      "example": "Clone technology."
+    },
+    {
+      "word": "coast",
+      "meaning": "海岸；海滨",
+      "example": "Walk along the coast."
+    },
+    {
+      "word": "coin",
+      "meaning": "硬币",
+      "example": "Flip a coin."
+    },
+    {
+      "word": "collect",
+      "meaning": "收集",
+      "example": "Collect stamps."
+    },
+    {
+      "word": "college",
+      "meaning": "学院",
+      "example": "Medical college."
+    },
+    {
+      "word": "combine",
+      "meaning": "结合",
+      "example": "Combine them together."
+    },
+    {
+      "word": "comfort",
+      "meaning": "舒适；安慰",
+      "example": "A life of comfort."
+    },
+    {
+      "word": "communicate",
+      "meaning": "交流",
+      "example": "Communicate with others."
+    },
+    {
+      "word": "companion",
+      "meaning": "同伴",
+      "example": "A travel companion."
+    },
+    {
+      "word": "compare",
+      "meaning": "比较",
+      "example": "Compare prices."
+    },
+    {
+      "word": "complain",
+      "meaning": "抱怨",
+      "example": "Stop complaining."
+    },
+    {
+      "word": "concentrate",
+      "meaning": "集中；专心",
+      "example": "Concentrate on your work."
+    },
+    {
+      "word": "concern",
+      "meaning": "关心；担忧",
+      "example": "Show concern."
+    },
+    {
+      "word": "conclusion",
+      "meaning": "结论",
+      "example": "Draw a conclusion."
+    },
+    {
+      "word": "confident",
+      "meaning": "自信的",
+      "example": "Be confident."
+    },
+    {
+      "word": "confirm",
+      "meaning": "确认",
+      "example": "Please confirm."
+    },
+    {
+      "word": "confuse",
+      "meaning": "使困惑",
+      "example": "It confuses me."
+    },
+    {
+      "word": "congratulation",
+      "meaning": "祝贺",
+      "example": "Congratulations!"
+    },
+    {
+      "word": "consider",
+      "meaning": "考虑",
+      "example": "Consider carefully."
+    },
+    {
+      "word": "constant",
+      "meaning": "持续的；不变的",
+      "example": "Constant effort."
+    },
+    {
+      "word": "contain",
+      "meaning": "包含；容纳",
+      "example": "It contains vitamin C."
+    },
+    {
+      "word": "content",
+      "meaning": "内容；满意的",
+      "example": "Are you content?"
+    },
+    {
+      "word": "continent",
+      "meaning": "大陆；洲",
+      "example": "Seven continents."
+    },
+    {
+      "word": "contribute",
+      "meaning": "贡献；捐赠",
+      "example": "Contribute to society."
+    },
+    {
+      "word": "convenient",
+      "meaning": "方便的",
+      "example": "Is it convenient?"
+    },
+    {
+      "word": "convince",
+      "meaning": "使确信；说服",
+      "example": "Convince me."
+    },
+    {
+      "word": "cooker",
+      "meaning": "炊具",
+      "example": "An electric cooker."
+    },
+    {
+      "word": "cotton",
+      "meaning": "棉花；棉布",
+      "example": "Cotton clothes."
+    },
+    {
+      "word": "count",
+      "meaning": "数；重要",
+      "example": "Every second counts."
+    },
+    {
+      "word": "counter",
+      "meaning": "柜台；计算器",
+      "example": "At the counter."
+    },
+    {
+      "word": "couple",
+      "meaning": "一对；夫妇",
+      "example": "A happy couple."
+    },
+    {
+      "word": "course",
+      "meaning": "课程；过程",
+      "example": "Of course."
+    },
+    {
+      "word": "court",
+      "meaning": "法庭；球场",
+      "example": "Tennis court."
+    },
+    {
+      "word": "crash",
+      "meaning": "碰撞；崩溃",
+      "example": "Car crash."
+    },
+    {
+      "word": "cream",
+      "meaning": "奶油；面霜",
+      "example": "Ice cream."
+    },
+    {
+      "word": "crime",
+      "meaning": "犯罪；罪行",
+      "example": "Fight crime."
+    },
+    {
+      "word": "cross",
+      "meaning": "穿过；十字",
+      "example": "Cross the road."
+    },
+    {
+      "word": "cruel",
+      "meaning": "残酷的",
+      "example": "It's cruel."
+    },
+    {
+      "word": "cure",
+      "meaning": "治愈；治疗",
+      "example": "Find a cure."
+    },
+    {
+      "word": "curious",
+      "meaning": "好奇的",
+      "example": "I am curious."
+    },
+    {
+      "word": "current",
+      "meaning": "当前的；水流；电流",
+      "example": "Current events."
+    },
+    {
+      "word": "custom",
+      "meaning": "习惯；风俗",
+      "example": "Local customs."
+    },
+    {
+      "word": "cycle",
+      "meaning": "循环；骑自行车",
+      "example": "Life cycle."
+    },
+    {
+      "word": "damage",
+      "meaning": "损害；伤害",
+      "example": "Cause damage."
+    },
+    {
+      "word": "dawn",
+      "meaning": "黎明",
+      "example": "At dawn."
+    },
+    {
+      "word": "deadline",
+      "meaning": "截止日期",
+      "example": "Meet the deadline."
+    },
+    {
+      "word": "deaf",
+      "meaning": "聋的",
+      "example": "Deaf people."
+    },
+    {
+      "word": "debate",
+      "meaning": "辩论",
+      "example": "Have a debate."
+    },
+    {
+      "word": "debt",
+      "meaning": "债务",
+      "example": "Pay off the debt."
+    },
+    {
+      "word": "decade",
+      "meaning": "十年",
+      "example": "For a decade."
+    },
+    {
+      "word": "declare",
+      "meaning": "宣布；声明",
+      "example": "Declare independence."
+    },
+    {
+      "word": "decrease",
+      "meaning": "减少",
+      "example": "Decrease pollution."
+    },
+    {
+      "word": "defeat",
+      "meaning": "打败",
+      "example": "Accept defeat."
+    },
+    {
+      "word": "defend",
+      "meaning": "防守；辩护",
+      "example": "Defend yourself."
+    },
+    {
+      "word": "defense",
+      "meaning": "防御；辩护",
+      "example": "In self-defense."
+    },
+    {
+      "word": "degree",
+      "meaning": "度；学位",
+      "example": "A high degree."
+    },
+    {
+      "word": "delay",
+      "meaning": "延迟；推迟",
+      "example": "Without delay."
+    },
+    {
+      "word": "deliver",
+      "meaning": "递送；发表",
+      "example": "Deliver a speech."
+    },
+    {
+      "word": "demand",
+      "meaning": "需求；要求",
+      "example": "Supply and demand."
+    },
+    {
+      "word": "dentist",
+      "meaning": "牙医",
+      "example": "See a dentist."
+    },
+    {
+      "word": "department",
+      "meaning": "部门；系",
+      "example": "Sales department."
+    },
+    {
+      "word": "depend",
+      "meaning": "依赖",
+      "example": "Depend on each other."
+    },
+    {
+      "word": "desert",
+      "meaning": "沙漠；抛弃",
+      "example": "Sahara Desert."
+    },
+    {
+      "word": "deserve",
+      "meaning": "值得；应得",
+      "example": "You deserve it."
+    },
+    {
+      "word": "design",
+      "meaning": "设计",
+      "example": "Fashion design."
+    },
+    {
+      "word": "desire",
+      "meaning": "渴望；愿望",
+      "example": "A strong desire."
+    },
+    {
+      "word": "destroy",
+      "meaning": "破坏；摧毁",
+      "example": "Destroy the environment."
+    },
+    {
+      "word": "detail",
+      "meaning": "细节",
+      "example": "Pay attention to detail."
+    },
+    {
+      "word": "determine",
+      "meaning": "决定；下决心",
+      "example": "Determine to succeed."
+    },
+    {
+      "word": "develop",
+      "meaning": "发展",
+      "example": "Develop a habit."
+    },
+    {
+      "word": "devote",
+      "meaning": "奉献；致力于",
+      "example": "Devote time to reading."
+    },
+    {
+      "word": "diamond",
+      "meaning": "钻石",
+      "example": "A diamond ring."
+    },
+    {
+      "word": "diary",
+      "meaning": "日记",
+      "example": "Keep a diary."
+    },
+    {
+      "word": "differ",
+      "meaning": "不同",
+      "example": "Opinions differ."
+    },
+    {
+      "word": "digest",
+      "meaning": "消化",
+      "example": "Digest food."
+    },
+    {
+      "word": "digital",
+      "meaning": "数字的",
+      "example": "Digital camera."
+    },
+    {
+      "word": "direct",
+      "meaning": "直接的",
+      "example": "A direct answer."
+    },
+    {
+      "word": "disappear",
+      "meaning": "消失",
+      "example": "It disappeared."
+    },
+    {
+      "word": "disappoint",
+      "meaning": "使失望",
+      "example": "Don't disappoint me."
+    },
+    {
+      "word": "discover",
+      "meaning": "发现",
+      "example": "Discover the truth."
+    },
+    {
+      "word": "display",
+      "meaning": "展示；陈列",
+      "example": "On display."
+    },
+    {
+      "word": "distance",
+      "meaning": "距离",
+      "example": "Keep a safe distance."
+    },
+    {
+      "word": "distant",
+      "meaning": "遥远的",
+      "example": "A distant land."
+    },
+    {
+      "word": "disturb",
+      "meaning": "打扰",
+      "example": "Do not disturb."
+    },
+    {
+      "word": "dive",
+      "meaning": "潜水；跳水",
+      "example": "Dive into the water."
+    },
+    {
+      "word": "document",
+      "meaning": "文件；文档",
+      "example": "Sign the document."
+    },
+    {
+      "word": "donate",
+      "meaning": "捐赠",
+      "example": "Donate blood."
+    },
+    {
+      "word": "double",
+      "meaning": "两倍的；双的",
+      "example": "Double the amount."
+    },
+    {
+      "word": "downstairs",
+      "meaning": "在楼下",
+      "example": "Go downstairs."
+    },
+    {
+      "word": "downtown",
+      "meaning": "市中心",
+      "example": "Go downtown."
+    },
+    {
+      "word": "drag",
+      "meaning": "拖；拉",
+      "example": "Drag the box."
+    },
+    {
+      "word": "drawer",
+      "meaning": "抽屉",
+      "example": "Open the drawer."
+    },
+    {
+      "word": "drown",
+      "meaning": "淹死；淹没",
+      "example": "Almost drown."
+    },
+    {
+      "word": "drug",
+      "meaning": "药；毒品",
+      "example": "Take the drug."
+    },
+    {
+      "word": "due",
+      "meaning": "到期的；应有的",
+      "example": "Due to bad weather."
+    },
+    {
+      "word": "dust",
+      "meaning": "灰尘",
+      "example": "Dust everywhere."
+    },
+    {
+      "word": "earn",
+      "meaning": "挣得；赚",
+      "example": "Earn money."
+    },
+    {
+      "word": "earthquake",
+      "meaning": "地震",
+      "example": "A big earthquake."
+    },
+    {
+      "word": "eastern",
+      "meaning": "东方的",
+      "example": "Eastern China."
+    },
+    {
+      "word": "economic",
+      "meaning": "经济的",
+      "example": "Economic growth."
+    },
+    {
+      "word": "edge",
+      "meaning": "边缘",
+      "example": "On the edge of the cliff."
+    },
+    {
+      "word": "effect",
+      "meaning": "效果；影响",
+      "example": "Side effect."
+    },
+    {
+      "word": "effort",
+      "meaning": "努力",
+      "example": "Make every effort."
+    },
+    {
+      "word": "elder",
+      "meaning": "年长的",
+      "example": "My elder brother."
+    },
+    {
+      "word": "electricity",
+      "meaning": "电；电力",
+      "example": "Save electricity."
+    },
+    {
+      "word": "emotion",
+      "meaning": "情感；情绪",
+      "example": "Control your emotion."
+    },
+    {
+      "word": "employ",
+      "meaning": "雇佣",
+      "example": "Employ workers."
+    },
+    {
+      "word": "enable",
+      "meaning": "使能够",
+      "example": "Enable the feature."
+    },
+    {
+      "word": "encourage",
+      "meaning": "鼓励",
+      "example": "Encourage students."
+    },
+    {
+      "word": "enemy",
+      "meaning": "敌人",
+      "example": "Friend or enemy."
+    },
+    {
+      "word": "energy",
+      "meaning": "能量",
+      "example": "Solar energy."
+    },
+    {
+      "word": "engine",
+      "meaning": "引擎；发动机",
+      "example": "Start the engine."
+    },
+    {
+      "word": "enjoyable",
+      "meaning": "令人愉快的",
+      "example": "An enjoyable trip."
+    },
+    {
+      "word": "entire",
+      "meaning": "整个的；全部的",
+      "example": "The entire world."
+    },
+    {
+      "word": "entry",
+      "meaning": "进入；入口；条目",
+      "example": "No entry."
+    },
+    {
+      "word": "equal",
+      "meaning": "相等的；平等的",
+      "example": "Equal rights."
+    },
+    {
+      "word": "equipment",
+      "meaning": "设备；器材",
+      "example": "Sports equipment."
+    },
+    {
+      "word": "escape",
+      "meaning": "逃跑；逃离",
+      "example": "Escape from danger."
+    },
+    {
+      "word": "event",
+      "meaning": "事件；项目",
+      "example": "Sporting event."
+    },
+    {
+      "word": "evidence",
+      "meaning": "证据",
+      "example": "No evidence."
+    },
+    {
+      "word": "exact",
+      "meaning": "确切的",
+      "example": "The exact number."
+    },
+    {
+      "word": "examine",
+      "meaning": "检查；考试",
+      "example": "Examine the patient."
+    }
+  ]
+}

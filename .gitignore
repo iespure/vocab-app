@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+/dist/
+/build/
+/android/
+app/
+.idea/
+*.pyo
+*.egg-info/
+.packages/
+.mypy_cache/

@@ -1,0 +1,1116 @@
+{
+  "grade": "六年级",
+  "description": "人教版 PEP 六年级",
+  "words": [
+    {
+      "word": "world",
+      "meaning": "世界",
+      "example": "Around the world."
+    },
+    {
+      "word": "country",
+      "meaning": "国家",
+      "example": "China is a big country."
+    },
+    {
+      "word": "Canada",
+      "meaning": "加拿大",
+      "example": "He is from Canada."
+    },
+    {
+      "word": "China",
+      "meaning": "中国",
+      "example": "I love China."
+    },
+    {
+      "word": "America",
+      "meaning": "美国",
+      "example": "I want to visit America."
+    },
+    {
+      "word": "England",
+      "meaning": "英国",
+      "example": "England is far away."
+    },
+    {
+      "word": "Australia",
+      "meaning": "澳大利亚",
+      "example": "Kangaroos live in Australia."
+    },
+    {
+      "word": "map",
+      "meaning": "地图",
+      "example": "Look at the map."
+    },
+    {
+      "word": "space",
+      "meaning": "太空；空间",
+      "example": "Go into space."
+    },
+    {
+      "word": "earth",
+      "meaning": "地球；泥土",
+      "example": "The earth goes around the sun."
+    },
+    {
+      "word": "planet",
+      "meaning": "行星",
+      "example": "Earth is our planet."
+    },
+    {
+      "word": "interesting",
+      "meaning": "有趣的",
+      "example": "It is very interesting."
+    },
+    {
+      "word": "fantastic",
+      "meaning": "极好的；奇妙的",
+      "example": "That's fantastic!"
+    },
+    {
+      "word": "amazing",
+      "meaning": "令人惊奇的",
+      "example": "That's amazing!"
+    },
+    {
+      "word": "future",
+      "meaning": "将来；未来",
+      "example": "In the future."
+    },
+    {
+      "word": "past",
+      "meaning": "过去；过去的",
+      "example": "In the past."
+    },
+    {
+      "word": "magazine",
+      "meaning": "杂志",
+      "example": "I read a magazine."
+    },
+    {
+      "word": "newspaper",
+      "meaning": "报纸",
+      "example": "Read the newspaper."
+    },
+    {
+      "word": "dictionary",
+      "meaning": "词典",
+      "example": "Look it up in a dictionary."
+    },
+    {
+      "word": "comic",
+      "meaning": "漫画",
+      "example": "I like comic books."
+    },
+    {
+      "word": "word book",
+      "meaning": "单词书",
+      "example": "I have a word book."
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片",
+      "example": "Send a postcard."
+    },
+    {
+      "word": "letter",
+      "meaning": "信；字母",
+      "example": "Write a letter."
+    },
+    {
+      "word": "email",
+      "meaning": "电子邮件",
+      "example": "Send me an email."
+    },
+    {
+      "word": "Internet",
+      "meaning": "互联网",
+      "example": "Use the Internet."
+    },
+    {
+      "word": "computer",
+      "meaning": "电脑",
+      "example": "I have a computer."
+    },
+    {
+      "word": "phone",
+      "meaning": "电话",
+      "example": "Answer the phone."
+    },
+    {
+      "word": "TV",
+      "meaning": "电视",
+      "example": "Watch TV."
+    },
+    {
+      "word": "radio",
+      "meaning": "收音机",
+      "example": "Listen to the radio."
+    },
+    {
+      "word": "photo",
+      "meaning": "照片",
+      "example": "Take a photo."
+    },
+    {
+      "word": "picture",
+      "meaning": "图画；照片",
+      "example": "Draw a picture."
+    },
+    {
+      "word": "film",
+      "meaning": "电影；胶片",
+      "example": "Watch a film."
+    },
+    {
+      "word": "movie",
+      "meaning": "电影",
+      "example": "Let's see a movie."
+    },
+    {
+      "word": "song",
+      "meaning": "歌曲",
+      "example": "Sing a song."
+    },
+    {
+      "word": "dance",
+      "meaning": "舞蹈；跳舞",
+      "example": "I love to dance."
+    },
+    {
+      "word": "violin",
+      "meaning": "小提琴",
+      "example": "Play the violin."
+    },
+    {
+      "word": "piano",
+      "meaning": "钢琴",
+      "example": "Play the piano."
+    },
+    {
+      "word": "guitar",
+      "meaning": "吉他",
+      "example": "He plays the guitar."
+    },
+    {
+      "word": "drum",
+      "meaning": "鼓",
+      "example": "Play the drums."
+    },
+    {
+      "word": "basketball",
+      "meaning": "篮球",
+      "example": "Play basketball."
+    },
+    {
+      "word": "football",
+      "meaning": "足球",
+      "example": "I like football."
+    },
+    {
+      "word": "volleyball",
+      "meaning": "排球",
+      "example": "Play volleyball."
+    },
+    {
+      "word": "baseball",
+      "meaning": "棒球",
+      "example": "He plays baseball."
+    },
+    {
+      "word": "tennis",
+      "meaning": "网球",
+      "example": "Play tennis."
+    },
+    {
+      "word": "badminton",
+      "meaning": "羽毛球",
+      "example": "I like badminton."
+    },
+    {
+      "word": "table tennis",
+      "meaning": "乒乓球",
+      "example": "Ping-pong is fun."
+    },
+    {
+      "word": "race",
+      "meaning": "赛跑；比赛",
+      "example": "Run a race."
+    },
+    {
+      "word": "competition",
+      "meaning": "比赛；竞赛",
+      "example": "Win the competition."
+    },
+    {
+      "word": "match",
+      "meaning": "比赛；火柴",
+      "example": "Watch a football match."
+    },
+    {
+      "word": "team",
+      "meaning": "队；团队",
+      "example": "Our team won."
+    },
+    {
+      "word": "win",
+      "meaning": "赢；获胜",
+      "example": "We will win."
+    },
+    {
+      "word": "lose",
+      "meaning": "输；丢失",
+      "example": "Don't lose hope."
+    },
+    {
+      "word": "hobby",
+      "meaning": "爱好",
+      "example": "My hobby is reading."
+    },
+    {
+      "word": "habit",
+      "meaning": "习惯",
+      "example": "Good habits."
+    },
+    {
+      "word": "join",
+      "meaning": "加入；参加",
+      "example": "Join the club."
+    },
+    {
+      "word": "club",
+      "meaning": "俱乐部；社团",
+      "example": "Join our club."
+    },
+    {
+      "word": "share",
+      "meaning": "分享",
+      "example": "Share your ideas."
+    },
+    {
+      "word": "together",
+      "meaning": "一起",
+      "example": "Let's sing together."
+    },
+    {
+      "word": "pilot",
+      "meaning": "飞行员",
+      "example": "I want to be a pilot."
+    },
+    {
+      "word": "coach",
+      "meaning": "教练",
+      "example": "My coach is strict."
+    },
+    {
+      "word": "scientist",
+      "meaning": "科学家",
+      "example": "I want to be a scientist."
+    },
+    {
+      "word": "doctor",
+      "meaning": "医生",
+      "example": "He is a doctor."
+    },
+    {
+      "word": "nurse",
+      "meaning": "护士",
+      "example": "She is a nurse."
+    },
+    {
+      "word": "driver",
+      "meaning": "司机",
+      "example": "My father is a driver."
+    },
+    {
+      "word": "farmer",
+      "meaning": "农民",
+      "example": "He is a farmer."
+    },
+    {
+      "word": "worker",
+      "meaning": "工人",
+      "example": "My uncle is a worker."
+    },
+    {
+      "word": "police officer",
+      "meaning": "警察",
+      "example": "Call the police officer."
+    },
+    {
+      "word": "postman",
+      "meaning": "邮递员",
+      "example": "The postman brings letters."
+    },
+    {
+      "word": "businessman",
+      "meaning": "商人；企业家",
+      "example": "He is a businessman."
+    },
+    {
+      "word": "reporter",
+      "meaning": "记者",
+      "example": "She is a reporter."
+    },
+    {
+      "word": "secretary",
+      "meaning": "秘书",
+      "example": "My mom is a secretary."
+    },
+    {
+      "word": "factory",
+      "meaning": "工厂",
+      "example": "Work in a factory."
+    },
+    {
+      "word": "office",
+      "meaning": "办公室",
+      "example": "Go to the office."
+    },
+    {
+      "word": "university",
+      "meaning": "大学",
+      "example": "I want to go to university."
+    },
+    {
+      "word": "gym",
+      "meaning": "体育馆",
+      "example": "Play in the gym."
+    },
+    {
+      "word": "science museum",
+      "meaning": "科学博物馆",
+      "example": "Let's go to the science museum."
+    },
+    {
+      "word": "crossing",
+      "meaning": "十字路口",
+      "example": "Turn left at the crossing."
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通",
+      "example": "Traffic is heavy."
+    },
+    {
+      "word": "traffic lights",
+      "meaning": "交通信号灯",
+      "example": "Wait for the traffic lights."
+    },
+    {
+      "word": "helmet",
+      "meaning": "头盔",
+      "example": "Wear a helmet."
+    },
+    {
+      "word": "attention",
+      "meaning": "注意",
+      "example": "Pay attention."
+    },
+    {
+      "word": "feature",
+      "meaning": "特征；特点",
+      "example": "What is the feature?"
+    },
+    {
+      "word": "follow",
+      "meaning": "跟随；遵守",
+      "example": "Follow me."
+    },
+    {
+      "word": "rule",
+      "meaning": "规则",
+      "example": "Follow the rules."
+    },
+    {
+      "word": "must",
+      "meaning": "必须",
+      "example": "You must go."
+    },
+    {
+      "word": "should",
+      "meaning": "应该",
+      "example": "You should try."
+    },
+    {
+      "word": "could",
+      "meaning": "可以；可能",
+      "example": "Could I use your pen?"
+    },
+    {
+      "word": "would",
+      "meaning": "将会；愿意",
+      "example": "Would you like some tea?"
+    },
+    {
+      "word": "may",
+      "meaning": "可能；可以",
+      "example": "May I come in?"
+    },
+    {
+      "word": "might",
+      "meaning": "可能",
+      "example": "It might rain."
+    },
+    {
+      "word": "will",
+      "meaning": "将；会",
+      "example": "I will go."
+    },
+    {
+      "word": "shall",
+      "meaning": "将要；应该",
+      "example": "Shall we go?"
+    },
+    {
+      "word": "better",
+      "meaning": "更好的",
+      "example": "I feel better."
+    },
+    {
+      "word": "best",
+      "meaning": "最好的",
+      "example": "You are the best."
+    },
+    {
+      "word": "worse",
+      "meaning": "更差的",
+      "example": "It is worse."
+    },
+    {
+      "word": "worst",
+      "meaning": "最差的",
+      "example": "The worst day."
+    },
+    {
+      "word": "more",
+      "meaning": "更多",
+      "example": "More milk, please."
+    },
+    {
+      "word": "most",
+      "meaning": "最多的；大多数",
+      "example": "Most people like it."
+    },
+    {
+      "word": "less",
+      "meaning": "更少",
+      "example": "Less sugar, please."
+    },
+    {
+      "word": "least",
+      "meaning": "最少",
+      "example": "At least try."
+    },
+    {
+      "word": "million",
+      "meaning": "百万",
+      "example": "One million stars."
+    },
+    {
+      "word": "thousand",
+      "meaning": "千",
+      "example": "A thousand people."
+    },
+    {
+      "word": "hundred",
+      "meaning": "百",
+      "example": "One hundred."
+    },
+    {
+      "word": "size",
+      "meaning": "尺寸；大小",
+      "example": "What size?"
+    },
+    {
+      "word": "length",
+      "meaning": "长度",
+      "example": "The length is two meters."
+    },
+    {
+      "word": "meter",
+      "meaning": "米",
+      "example": "It is one meter long."
+    },
+    {
+      "word": "kilometer",
+      "meaning": "千米；公里",
+      "example": "Five kilometers."
+    },
+    {
+      "word": "kilogram",
+      "meaning": "千克；公斤",
+      "example": "One kilogram."
+    },
+    {
+      "word": "half",
+      "meaning": "一半",
+      "example": "Half an hour."
+    },
+    {
+      "word": "whole",
+      "meaning": "全部的；整个的",
+      "example": "The whole day."
+    },
+    {
+      "word": "enough",
+      "meaning": "足够",
+      "example": "That's enough."
+    },
+    {
+      "word": "another",
+      "meaning": "另一个",
+      "example": "Another one, please."
+    },
+    {
+      "word": "little",
+      "meaning": "小的；少的",
+      "example": "A little milk."
+    },
+    {
+      "word": "few",
+      "meaning": "很少的",
+      "example": "A few friends."
+    },
+    {
+      "word": "several",
+      "meaning": "几个；若干",
+      "example": "Several times."
+    },
+    {
+      "word": "nothing",
+      "meaning": "没有什么",
+      "example": "Nothing is wrong."
+    },
+    {
+      "word": "everything",
+      "meaning": "每件事；一切",
+      "example": "Everything is OK."
+    },
+    {
+      "word": "something",
+      "meaning": "某事物",
+      "example": "Something is wrong."
+    },
+    {
+      "word": "anything",
+      "meaning": "任何事物",
+      "example": "Is there anything?"
+    },
+    {
+      "word": "everyone",
+      "meaning": "每个人",
+      "example": "Good morning, everyone."
+    },
+    {
+      "word": "someone",
+      "meaning": "某人",
+      "example": "Someone is knocking."
+    },
+    {
+      "word": "anyone",
+      "meaning": "任何人",
+      "example": "Is anyone there?"
+    },
+    {
+      "word": "nobody",
+      "meaning": "没有人",
+      "example": "Nobody knows."
+    },
+    {
+      "word": "everywhere",
+      "meaning": "到处",
+      "example": "I looked everywhere."
+    },
+    {
+      "word": "somewhere",
+      "meaning": "某处",
+      "example": "Somewhere over there."
+    },
+    {
+      "word": "anywhere",
+      "meaning": "任何地方",
+      "example": "I can't find it anywhere."
+    },
+    {
+      "word": "become",
+      "meaning": "变成；成为",
+      "example": "I want to become a doctor."
+    },
+    {
+      "word": "grow",
+      "meaning": "生长；成长",
+      "example": "Trees grow tall."
+    },
+    {
+      "word": "change",
+      "meaning": "改变；变化",
+      "example": "Things change."
+    },
+    {
+      "word": "happen",
+      "meaning": "发生",
+      "example": "What happened?"
+    },
+    {
+      "word": "move",
+      "meaning": "移动；搬家",
+      "example": "Move your chair."
+    },
+    {
+      "word": "carry",
+      "meaning": "搬；携带",
+      "example": "Carry the bag."
+    },
+    {
+      "word": "pull",
+      "meaning": "拉",
+      "example": "Pull the door."
+    },
+    {
+      "word": "push",
+      "meaning": "推",
+      "example": "Push the door."
+    },
+    {
+      "word": "throw",
+      "meaning": "扔；投",
+      "example": "Throw the ball."
+    },
+    {
+      "word": "catch",
+      "meaning": "抓住；接住",
+      "example": "Catch the ball."
+    },
+    {
+      "word": "drop",
+      "meaning": "掉落；滴",
+      "example": "Don't drop it."
+    },
+    {
+      "word": "fall",
+      "meaning": "落下；跌倒",
+      "example": "Be careful, don't fall."
+    },
+    {
+      "word": "break",
+      "meaning": "打破；折断",
+      "example": "Don't break it."
+    },
+    {
+      "word": "fix",
+      "meaning": "修理；固定",
+      "example": "Can you fix it?"
+    },
+    {
+      "word": "repair",
+      "meaning": "修理",
+      "example": "Repair the bike."
+    },
+    {
+      "word": "build",
+      "meaning": "建造",
+      "example": "Build a house."
+    },
+    {
+      "word": "cut",
+      "meaning": "切；割",
+      "example": "Cut the paper."
+    },
+    {
+      "word": "add",
+      "meaning": "增加；添加",
+      "example": "Add some sugar."
+    },
+    {
+      "word": "mix",
+      "meaning": "混合",
+      "example": "Mix them together."
+    },
+    {
+      "word": "boil",
+      "meaning": "煮沸",
+      "example": "Boil the water."
+    },
+    {
+      "word": "bake",
+      "meaning": "烤；烘焙",
+      "example": "Bake a cake."
+    },
+    {
+      "word": "fry",
+      "meaning": "油炸；煎",
+      "example": "Fry the fish."
+    },
+    {
+      "word": "taste",
+      "meaning": "品尝；味道",
+      "example": "It tastes good."
+    },
+    {
+      "word": "smell",
+      "meaning": "闻；气味",
+      "example": "It smells good."
+    },
+    {
+      "word": "sound",
+      "meaning": "声音；听起来",
+      "example": "It sounds great."
+    },
+    {
+      "word": "touch",
+      "meaning": "触摸",
+      "example": "Don't touch it."
+    },
+    {
+      "word": "choose",
+      "meaning": "选择",
+      "example": "Choose one."
+    },
+    {
+      "word": "decide",
+      "meaning": "决定",
+      "example": "Decide what to do."
+    },
+    {
+      "word": "agree",
+      "meaning": "同意",
+      "example": "I agree with you."
+    },
+    {
+      "word": "believe",
+      "meaning": "相信",
+      "example": "I believe you."
+    },
+    {
+      "word": "discover",
+      "meaning": "发现",
+      "example": "Discover the world."
+    },
+    {
+      "word": "imagine",
+      "meaning": "想象",
+      "example": "Just imagine."
+    },
+    {
+      "word": "appear",
+      "meaning": "出现",
+      "example": "The sun appears."
+    },
+    {
+      "word": "disappear",
+      "meaning": "消失",
+      "example": "It disappeared."
+    },
+    {
+      "word": "continue",
+      "meaning": "继续",
+      "example": "Continue reading."
+    },
+    {
+      "word": "last",
+      "meaning": "持续；上一个",
+      "example": "How long will it last?"
+    },
+    {
+      "word": "pass",
+      "meaning": "通过；传递；经过",
+      "example": "Pass the ball."
+    },
+    {
+      "word": "return",
+      "meaning": "返回；归还",
+      "example": "Return the book."
+    },
+    {
+      "word": "arrive",
+      "meaning": "到达",
+      "example": "We arrived late."
+    },
+    {
+      "word": "reach",
+      "meaning": "到达；够得着",
+      "example": "I can't reach it."
+    },
+    {
+      "word": "spend",
+      "meaning": "花费；度过",
+      "example": "Spend time with family."
+    },
+    {
+      "word": "save",
+      "meaning": "节省；保存；救",
+      "example": "Save water."
+    },
+    {
+      "word": "waste",
+      "meaning": "浪费；废物",
+      "example": "Don't waste time."
+    },
+    {
+      "word": "collect",
+      "meaning": "收集",
+      "example": "I collect stamps."
+    },
+    {
+      "word": "enjoy",
+      "meaning": "享受；喜欢",
+      "example": "Enjoy your meal."
+    },
+    {
+      "word": "worry",
+      "meaning": "担心",
+      "example": "Don't worry."
+    },
+    {
+      "word": "believe",
+      "meaning": "相信",
+      "example": "Believe in yourself."
+    },
+    {
+      "word": "mind",
+      "meaning": "介意；头脑",
+      "example": "Do you mind?"
+    },
+    {
+      "word": "suggest",
+      "meaning": "建议",
+      "example": "What do you suggest?"
+    },
+    {
+      "word": "advice",
+      "meaning": "建议（名词）",
+      "example": "Good advice."
+    },
+    {
+      "word": "guide",
+      "meaning": "指南；导游",
+      "example": "Our guide showed us."
+    },
+    {
+      "word": "notice",
+      "meaning": "注意；通知",
+      "example": "Did you notice?"
+    },
+    {
+      "word": "information",
+      "meaning": "信息",
+      "example": "More information."
+    },
+    {
+      "word": "news",
+      "meaning": "新闻；消息",
+      "example": "Good news!"
+    },
+    {
+      "word": "message",
+      "meaning": "消息；信息",
+      "example": "Leave a message."
+    },
+    {
+      "word": "report",
+      "meaning": "报告；报道",
+      "example": "Write a report."
+    },
+    {
+      "word": "fact",
+      "meaning": "事实",
+      "example": "In fact."
+    },
+    {
+      "word": "truth",
+      "meaning": "真相；真理",
+      "example": "Tell the truth."
+    },
+    {
+      "word": "example",
+      "meaning": "例子",
+      "example": "For example."
+    },
+    {
+      "word": "reason",
+      "meaning": "原因；理由",
+      "example": "No reason."
+    },
+    {
+      "word": "result",
+      "meaning": "结果",
+      "example": "Good result."
+    },
+    {
+      "word": "chance",
+      "meaning": "机会",
+      "example": "Give me a chance."
+    },
+    {
+      "word": "idea",
+      "meaning": "主意；想法",
+      "example": "Good idea!"
+    },
+    {
+      "word": "plan",
+      "meaning": "计划",
+      "example": "What's your plan?"
+    },
+    {
+      "word": "goal",
+      "meaning": "目标",
+      "example": "Reach your goal."
+    },
+    {
+      "word": "secret",
+      "meaning": "秘密",
+      "example": "Keep a secret."
+    },
+    {
+      "word": "joke",
+      "meaning": "笑话",
+      "example": "Tell a joke."
+    },
+    {
+      "word": "smile",
+      "meaning": "微笑",
+      "example": "Keep smiling."
+    },
+    {
+      "word": "laugh",
+      "meaning": "笑；大笑",
+      "example": "They laugh together."
+    },
+    {
+      "word": "cry",
+      "meaning": "哭；喊",
+      "example": "Don't cry."
+    },
+    {
+      "word": "stand",
+      "meaning": "站立",
+      "example": "Stand up."
+    },
+    {
+      "word": "sit",
+      "meaning": "坐",
+      "example": "Sit down, please."
+    },
+    {
+      "word": "sleep",
+      "meaning": "睡觉",
+      "example": "Go to sleep."
+    },
+    {
+      "word": "wake",
+      "meaning": "醒来",
+      "example": "Wake up!"
+    },
+    {
+      "word": "dream",
+      "meaning": "做梦；梦想",
+      "example": "Sweet dreams."
+    },
+    {
+      "word": "answer",
+      "meaning": "回答；答案",
+      "example": "Answer the question."
+    },
+    {
+      "word": "question",
+      "meaning": "问题",
+      "example": "Any questions?"
+    },
+    {
+      "word": "ask",
+      "meaning": "问；请求",
+      "example": "May I ask a question?"
+    },
+    {
+      "word": "tell",
+      "meaning": "告诉；讲",
+      "example": "Tell me a story."
+    },
+    {
+      "word": "say",
+      "meaning": "说",
+      "example": "What did you say?"
+    },
+    {
+      "word": "talk",
+      "meaning": "谈话；交谈",
+      "example": "Let's talk."
+    },
+    {
+      "word": "call",
+      "meaning": "打电话；称呼",
+      "example": "Call me later."
+    },
+    {
+      "word": "shout",
+      "meaning": "喊叫",
+      "example": "Don't shout."
+    },
+    {
+      "word": "show",
+      "meaning": "展示；表演",
+      "example": "Show me."
+    },
+    {
+      "word": "send",
+      "meaning": "发送；寄",
+      "example": "Send me a message."
+    },
+    {
+      "word": "receive",
+      "meaning": "收到",
+      "example": "I received your letter."
+    },
+    {
+      "word": "teach",
+      "meaning": "教；教学",
+      "example": "Teach me how to swim."
+    },
+    {
+      "word": "explain",
+      "meaning": "解释",
+      "example": "Can you explain it?"
+    },
+    {
+      "word": "mean",
+      "meaning": "意思是；意味着",
+      "example": "What does it mean?"
+    },
+    {
+      "word": "understand",
+      "meaning": "理解；明白",
+      "example": "I understand."
+    },
+    {
+      "word": "realize",
+      "meaning": "意识到；实现",
+      "example": "Now I realize."
+    },
+    {
+      "word": "wait",
+      "meaning": "等待",
+      "example": "Wait a minute."
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道；奇迹",
+      "example": "I wonder why."
+    },
+    {
+      "word": "expect",
+      "meaning": "期望；预期",
+      "example": "I expect good news."
+    },
+    {
+      "word": "invite",
+      "meaning": "邀请",
+      "example": "Invite your friends."
+    },
+    {
+      "word": "prepare",
+      "meaning": "准备",
+      "example": "Prepare for the exam."
+    }
+  ]
+}

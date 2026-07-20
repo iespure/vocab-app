@@ -1,0 +1,806 @@
+{
+  "grade": "四年级",
+  "description": "人教版 PEP 四年级起点",
+  "words": [
+    {
+      "word": "beautiful",
+      "meaning": "美丽的",
+      "example": "The flowers are beautiful."
+    },
+    {
+      "word": "really",
+      "meaning": "真的；真正地",
+      "example": "It is really big."
+    },
+    {
+      "word": "pretty",
+      "meaning": "漂亮的",
+      "example": "She is pretty."
+    },
+    {
+      "word": "clever",
+      "meaning": "聪明的",
+      "example": "You are clever."
+    },
+    {
+      "word": "funny",
+      "meaning": "滑稽的；有趣的",
+      "example": "He is funny."
+    },
+    {
+      "word": "helpful",
+      "meaning": "有帮助的",
+      "example": "You are helpful."
+    },
+    {
+      "word": "strict",
+      "meaning": "严格的",
+      "example": "My teacher is strict."
+    },
+    {
+      "word": "kind",
+      "meaning": "善良的；友好的",
+      "example": "She is very kind."
+    },
+    {
+      "word": "polite",
+      "meaning": "有礼貌的",
+      "example": "He is a polite boy."
+    },
+    {
+      "word": "hard-working",
+      "meaning": "勤奋的",
+      "example": "She is hard-working."
+    },
+    {
+      "word": "shy",
+      "meaning": "害羞的",
+      "example": "The girl is shy."
+    },
+    {
+      "word": "strong",
+      "meaning": "强壮的",
+      "example": "My father is strong."
+    },
+    {
+      "word": "young",
+      "meaning": "年轻的；幼小的",
+      "example": "She looks young."
+    },
+    {
+      "word": "old",
+      "meaning": "老的；旧的",
+      "example": "The man is old."
+    },
+    {
+      "word": "new",
+      "meaning": "新的",
+      "example": "I have a new bag."
+    },
+    {
+      "word": "right",
+      "meaning": "正确的；右边的",
+      "example": "That's right!"
+    },
+    {
+      "word": "left",
+      "meaning": "左边的",
+      "example": "Turn left."
+    },
+    {
+      "word": "Chinese",
+      "meaning": "语文；中国的；中国人",
+      "example": "I like Chinese class."
+    },
+    {
+      "word": "English",
+      "meaning": "英语；英国的",
+      "example": "We have English today."
+    },
+    {
+      "word": "math",
+      "meaning": "数学",
+      "example": "Math is fun."
+    },
+    {
+      "word": "music",
+      "meaning": "音乐",
+      "example": "I love music class."
+    },
+    {
+      "word": "art",
+      "meaning": "美术",
+      "example": "We have art on Monday."
+    },
+    {
+      "word": "science",
+      "meaning": "科学",
+      "example": "Science is interesting."
+    },
+    {
+      "word": "PE",
+      "meaning": "体育",
+      "example": "I like PE class."
+    },
+    {
+      "word": "class",
+      "meaning": "课；班级",
+      "example": "Class begins."
+    },
+    {
+      "word": "homework",
+      "meaning": "家庭作业",
+      "example": "Do your homework."
+    },
+    {
+      "word": "story",
+      "meaning": "故事",
+      "example": "Tell me a story."
+    },
+    {
+      "word": "sport",
+      "meaning": "运动",
+      "example": "I like sports."
+    },
+    {
+      "word": "music room",
+      "meaning": "音乐教室",
+      "example": "We sing in the music room."
+    },
+    {
+      "word": "art room",
+      "meaning": "美术教室",
+      "example": "We draw in the art room."
+    },
+    {
+      "word": "computer room",
+      "meaning": "计算机教室",
+      "example": "We use computers in the computer room."
+    },
+    {
+      "word": "first floor",
+      "meaning": "一楼",
+      "example": "The library is on the first floor."
+    },
+    {
+      "word": "second floor",
+      "meaning": "二楼",
+      "example": "Classroom is on the second floor."
+    },
+    {
+      "word": "teacher's office",
+      "meaning": "教师办公室",
+      "example": "Go to the teacher's office."
+    },
+    {
+      "word": "next to",
+      "meaning": "在……旁边",
+      "example": "It is next to the door."
+    },
+    {
+      "word": "weather",
+      "meaning": "天气",
+      "example": "What's the weather like?"
+    },
+    {
+      "word": "degree",
+      "meaning": "度；度数",
+      "example": "It is 20 degrees."
+    },
+    {
+      "word": "outside",
+      "meaning": "在外面",
+      "example": "Let's go outside."
+    },
+    {
+      "word": "inside",
+      "meaning": "在里面",
+      "example": "Come inside."
+    },
+    {
+      "word": "tomato",
+      "meaning": "西红柿",
+      "example": "I like tomatoes."
+    },
+    {
+      "word": "potato",
+      "meaning": "土豆",
+      "example": "I want some potatoes."
+    },
+    {
+      "word": "carrot",
+      "meaning": "胡萝卜",
+      "example": "Rabbits like carrots."
+    },
+    {
+      "word": "onion",
+      "meaning": "洋葱",
+      "example": "I don't like onions."
+    },
+    {
+      "word": "bean",
+      "meaning": "豆",
+      "example": "Green beans are healthy."
+    },
+    {
+      "word": "grape",
+      "meaning": "葡萄",
+      "example": "I like grapes."
+    },
+    {
+      "word": "strawberry",
+      "meaning": "草莓",
+      "example": "I love strawberries."
+    },
+    {
+      "word": "watermelon",
+      "meaning": "西瓜",
+      "example": "Watermelon is sweet."
+    },
+    {
+      "word": "vegetable",
+      "meaning": "蔬菜",
+      "example": "Eat more vegetables."
+    },
+    {
+      "word": "fruit",
+      "meaning": "水果",
+      "example": "Fruit is good for you."
+    },
+    {
+      "word": "animal",
+      "meaning": "动物",
+      "example": "I like animals."
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "example": "Rabbits are cute."
+    },
+    {
+      "word": "horse",
+      "meaning": "马",
+      "example": "The horse can run fast."
+    },
+    {
+      "word": "cow",
+      "meaning": "奶牛",
+      "example": "The cow gives us milk."
+    },
+    {
+      "word": "sheep",
+      "meaning": "羊；绵羊",
+      "example": "I see a white sheep."
+    },
+    {
+      "word": "goat",
+      "meaning": "山羊",
+      "example": "The goat is on the hill."
+    },
+    {
+      "word": "hen",
+      "meaning": "母鸡",
+      "example": "The hen has eggs."
+    },
+    {
+      "word": "mouse",
+      "meaning": "老鼠",
+      "example": "I see a mouse."
+    },
+    {
+      "word": "snake",
+      "meaning": "蛇",
+      "example": "Be careful of the snake."
+    },
+    {
+      "word": "frog",
+      "meaning": "青蛙",
+      "example": "The frog can jump."
+    },
+    {
+      "word": "shirt",
+      "meaning": "衬衫",
+      "example": "I like your shirt."
+    },
+    {
+      "word": "dress",
+      "meaning": "连衣裙",
+      "example": "She has a new dress."
+    },
+    {
+      "word": "skirt",
+      "meaning": "短裙",
+      "example": "My skirt is pink."
+    },
+    {
+      "word": "coat",
+      "meaning": "外套；大衣",
+      "example": "Put on your coat."
+    },
+    {
+      "word": "jacket",
+      "meaning": "夹克",
+      "example": "My jacket is warm."
+    },
+    {
+      "word": "sweater",
+      "meaning": "毛衣",
+      "example": "I wear a sweater today."
+    },
+    {
+      "word": "pants",
+      "meaning": "裤子",
+      "example": "My pants are blue."
+    },
+    {
+      "word": "shorts",
+      "meaning": "短裤",
+      "example": "I wear shorts in summer."
+    },
+    {
+      "word": "shoes",
+      "meaning": "鞋子",
+      "example": "My shoes are new."
+    },
+    {
+      "word": "socks",
+      "meaning": "袜子",
+      "example": "Put on your socks."
+    },
+    {
+      "word": "hat",
+      "meaning": "帽子",
+      "example": "Take off your hat."
+    },
+    {
+      "word": "cap",
+      "meaning": "棒球帽",
+      "example": "I have a red cap."
+    },
+    {
+      "word": "scarf",
+      "meaning": "围巾",
+      "example": "I wear a scarf."
+    },
+    {
+      "word": "glasses",
+      "meaning": "眼镜",
+      "example": "I wear glasses."
+    },
+    {
+      "word": "glove",
+      "meaning": "手套",
+      "example": "Put on your gloves."
+    },
+    {
+      "word": "umbrella",
+      "meaning": "雨伞",
+      "example": "Take your umbrella."
+    },
+    {
+      "word": "expensive",
+      "meaning": "昂贵的",
+      "example": "It is too expensive."
+    },
+    {
+      "word": "cheap",
+      "meaning": "便宜的",
+      "example": "It is very cheap."
+    },
+    {
+      "word": "nice",
+      "meaning": "好的；好看的",
+      "example": "That's nice!"
+    },
+    {
+      "word": "ready",
+      "meaning": "准备好的",
+      "example": "Are you ready?"
+    },
+    {
+      "word": "first",
+      "meaning": "第一；首先",
+      "example": "First, wash your hands."
+    },
+    {
+      "word": "second",
+      "meaning": "第二",
+      "example": "Second, cut the bread."
+    },
+    {
+      "word": "third",
+      "meaning": "第三",
+      "example": "Third, eat and enjoy."
+    },
+    {
+      "word": "lunch room",
+      "meaning": "食堂",
+      "example": "Let's go to the lunch room."
+    },
+    {
+      "word": "go to bed",
+      "meaning": "上床睡觉",
+      "example": "Time to go to bed."
+    },
+    {
+      "word": "get up",
+      "meaning": "起床",
+      "example": "I get up at six."
+    },
+    {
+      "word": "go home",
+      "meaning": "回家",
+      "example": "Let's go home."
+    },
+    {
+      "word": "go to school",
+      "meaning": "去上学",
+      "example": "I go to school at seven."
+    },
+    {
+      "word": "hurry",
+      "meaning": "赶紧；匆忙",
+      "example": "Hurry up!"
+    },
+    {
+      "word": "just",
+      "meaning": "正好；刚刚",
+      "example": "Just a minute."
+    },
+    {
+      "word": "wait",
+      "meaning": "等待",
+      "example": "Wait for me."
+    },
+    {
+      "word": "careful",
+      "meaning": "小心的",
+      "example": "Be careful!"
+    },
+    {
+      "word": "broken",
+      "meaning": "破损的",
+      "example": "My pen is broken."
+    },
+    {
+      "word": "lost",
+      "meaning": "丢失的；迷路的",
+      "example": "I am lost."
+    },
+    {
+      "word": "find",
+      "meaning": "找到",
+      "example": "I can't find my book."
+    },
+    {
+      "word": "bring",
+      "meaning": "带来",
+      "example": "Bring your book."
+    },
+    {
+      "word": "take",
+      "meaning": "拿走；乘坐",
+      "example": "Take your bag."
+    },
+    {
+      "word": "think",
+      "meaning": "想；认为",
+      "example": "I think so."
+    },
+    {
+      "word": "know",
+      "meaning": "知道",
+      "example": "I know that."
+    },
+    {
+      "word": "learn",
+      "meaning": "学习",
+      "example": "Learn to swim."
+    },
+    {
+      "word": "speak",
+      "meaning": "说；讲",
+      "example": "I can speak English."
+    },
+    {
+      "word": "sing",
+      "meaning": "唱歌",
+      "example": "Let's sing a song."
+    },
+    {
+      "word": "dance",
+      "meaning": "跳舞",
+      "example": "She can dance well."
+    },
+    {
+      "word": "draw",
+      "meaning": "画画",
+      "example": "I like to draw."
+    },
+    {
+      "word": "paint",
+      "meaning": "绘画；刷漆",
+      "example": "Let's paint a picture."
+    },
+    {
+      "word": "write",
+      "meaning": "写",
+      "example": "Write your name."
+    },
+    {
+      "word": "read",
+      "meaning": "读；阅读",
+      "example": "I like to read."
+    },
+    {
+      "word": "listen",
+      "meaning": "听",
+      "example": "Listen to me."
+    },
+    {
+      "word": "open",
+      "meaning": "打开",
+      "example": "Open the door."
+    },
+    {
+      "word": "close",
+      "meaning": "关闭",
+      "example": "Close the window."
+    },
+    {
+      "word": "come",
+      "meaning": "来",
+      "example": "Come here."
+    },
+    {
+      "word": "go",
+      "meaning": "去",
+      "example": "Go to school."
+    },
+    {
+      "word": "stop",
+      "meaning": "停止",
+      "example": "Stop here."
+    },
+    {
+      "word": "come on",
+      "meaning": "快点；加油",
+      "example": "Come on! Let's go."
+    },
+    {
+      "word": "cool",
+      "meaning": "酷的；凉爽的",
+      "example": "That's cool!"
+    },
+    {
+      "word": "wonderful",
+      "meaning": "极好的",
+      "example": "That's wonderful!"
+    },
+    {
+      "word": "great",
+      "meaning": "伟大的；很好的",
+      "example": "You are great!"
+    },
+    {
+      "word": "sometimes",
+      "meaning": "有时候",
+      "example": "I sometimes walk to school."
+    },
+    {
+      "word": "always",
+      "meaning": "总是",
+      "example": "I always get up early."
+    },
+    {
+      "word": "usually",
+      "meaning": "通常",
+      "example": "I usually have rice for lunch."
+    },
+    {
+      "word": "often",
+      "meaning": "经常",
+      "example": "I often read books."
+    },
+    {
+      "word": "never",
+      "meaning": "从不",
+      "example": "I never eat ice cream."
+    },
+    {
+      "word": "together",
+      "meaning": "一起",
+      "example": "Let's go together."
+    },
+    {
+      "word": "too",
+      "meaning": "也；太",
+      "example": "Me too!"
+    },
+    {
+      "word": "also",
+      "meaning": "也",
+      "example": "I also like dogs."
+    },
+    {
+      "word": "but",
+      "meaning": "但是",
+      "example": "I like dogs but not cats."
+    },
+    {
+      "word": "and",
+      "meaning": "和；并且",
+      "example": "You and me."
+    },
+    {
+      "word": "or",
+      "meaning": "或者",
+      "example": "Red or blue?"
+    },
+    {
+      "word": "because",
+      "meaning": "因为",
+      "example": "Because I like it."
+    },
+    {
+      "word": "if",
+      "meaning": "如果",
+      "example": "If you are happy."
+    },
+    {
+      "word": "when",
+      "meaning": "当……的时候",
+      "example": "When do you get up?"
+    },
+    {
+      "word": "where",
+      "meaning": "在哪里",
+      "example": "Where is my pen?"
+    },
+    {
+      "word": "who",
+      "meaning": "谁",
+      "example": "Who is he?"
+    },
+    {
+      "word": "whose",
+      "meaning": "谁的",
+      "example": "Whose book is this?"
+    },
+    {
+      "word": "how",
+      "meaning": "怎样；如何",
+      "example": "How are you?"
+    },
+    {
+      "word": "why",
+      "meaning": "为什么",
+      "example": "Why not?"
+    },
+    {
+      "word": "which",
+      "meaning": "哪一个",
+      "example": "Which one?"
+    },
+    {
+      "word": "many",
+      "meaning": "许多（可数）",
+      "example": "How many books?"
+    },
+    {
+      "word": "much",
+      "meaning": "许多（不可数）",
+      "example": "How much is it?"
+    },
+    {
+      "word": "some",
+      "meaning": "一些",
+      "example": "Some water, please."
+    },
+    {
+      "word": "any",
+      "meaning": "任何；一些",
+      "example": "Do you have any milk?"
+    },
+    {
+      "word": "people",
+      "meaning": "人们",
+      "example": "Many people are here."
+    },
+    {
+      "word": "time",
+      "meaning": "时间",
+      "example": "What time is it?"
+    },
+    {
+      "word": "clock",
+      "meaning": "时钟",
+      "example": "Look at the clock."
+    },
+    {
+      "word": "o'clock",
+      "meaning": "……点钟",
+      "example": "It's eight o'clock."
+    },
+    {
+      "word": "breakfast",
+      "meaning": "早餐",
+      "example": "I eat breakfast at 7."
+    },
+    {
+      "word": "dinner",
+      "meaning": "晚餐",
+      "example": "Time for dinner."
+    },
+    {
+      "word": "wash",
+      "meaning": "洗",
+      "example": "Wash your hands."
+    },
+    {
+      "word": "clean",
+      "meaning": "干净的；打扫",
+      "example": "Clean the room."
+    },
+    {
+      "word": "cook",
+      "meaning": "做饭；厨师",
+      "example": "My mom can cook well."
+    },
+    {
+      "word": "make",
+      "meaning": "做；制作",
+      "example": "Make a cake."
+    },
+    {
+      "word": "use",
+      "meaning": "使用",
+      "example": "Can I use your pen?"
+    },
+    {
+      "word": "try",
+      "meaning": "尝试",
+      "example": "Try again."
+    },
+    {
+      "word": "help",
+      "meaning": "帮助",
+      "example": "Can I help you?"
+    },
+    {
+      "word": "need",
+      "meaning": "需要",
+      "example": "I need some water."
+    },
+    {
+      "word": "buy",
+      "meaning": "买",
+      "example": "Let's buy some fruit."
+    },
+    {
+      "word": "give",
+      "meaning": "给",
+      "example": "Give me a pen."
+    },
+    {
+      "word": "put",
+      "meaning": "放；放置",
+      "example": "Put it here."
+    },
+    {
+      "word": "get",
+      "meaning": "得到；变得",
+      "example": "Get up!"
+    },
+    {
+      "word": "work",
+      "meaning": "工作",
+      "example": "My father goes to work."
+    },
+    {
+      "word": "watch",
+      "meaning": "手表；观看",
+      "example": "Watch TV."
+    }
+  ]
+}

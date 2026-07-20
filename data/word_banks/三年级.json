@@ -1,0 +1,861 @@
+{
+  "grade": "三年级",
+  "description": "人教版 PEP 三年级起点（三上+三下）",
+  "words": [
+    {
+      "word": "hello",
+      "meaning": "你好",
+      "example": "Hello, I am Mike."
+    },
+    {
+      "word": "hi",
+      "meaning": "嗨",
+      "example": "Hi, Sarah!"
+    },
+    {
+      "word": "goodbye",
+      "meaning": "再见",
+      "example": "Goodbye, Miss White."
+    },
+    {
+      "word": "bye",
+      "meaning": "再见（口语）",
+      "example": "Bye, Mom!"
+    },
+    {
+      "word": "I",
+      "meaning": "我",
+      "example": "I have a ruler."
+    },
+    {
+      "word": "am",
+      "meaning": "是",
+      "example": "I am a student."
+    },
+    {
+      "word": "you",
+      "meaning": "你；你们",
+      "example": "You are my friend."
+    },
+    {
+      "word": "are",
+      "meaning": "是（用于you/we/they）",
+      "example": "How are you?"
+    },
+    {
+      "word": "name",
+      "meaning": "名字",
+      "example": "My name is Amy."
+    },
+    {
+      "word": "my",
+      "meaning": "我的",
+      "example": "My pen is blue."
+    },
+    {
+      "word": "your",
+      "meaning": "你的；你们的",
+      "example": "What's your name?"
+    },
+    {
+      "word": "what",
+      "meaning": "什么",
+      "example": "What is this?"
+    },
+    {
+      "word": "is",
+      "meaning": "是（用于he/she/it）",
+      "example": "It is a cat."
+    },
+    {
+      "word": "it",
+      "meaning": "它",
+      "example": "It is a dog."
+    },
+    {
+      "word": "this",
+      "meaning": "这个",
+      "example": "This is my school."
+    },
+    {
+      "word": "that",
+      "meaning": "那个",
+      "example": "That is a book."
+    },
+    {
+      "word": "teacher",
+      "meaning": "老师",
+      "example": "She is my teacher."
+    },
+    {
+      "word": "student",
+      "meaning": "学生",
+      "example": "I am a student."
+    },
+    {
+      "word": "school",
+      "meaning": "学校",
+      "example": "I go to school."
+    },
+    {
+      "word": "bag",
+      "meaning": "书包",
+      "example": "I have a new bag."
+    },
+    {
+      "word": "book",
+      "meaning": "书",
+      "example": "Open your book."
+    },
+    {
+      "word": "pen",
+      "meaning": "钢笔",
+      "example": "I have a red pen."
+    },
+    {
+      "word": "pencil",
+      "meaning": "铅笔",
+      "example": "Show me your pencil."
+    },
+    {
+      "word": "ruler",
+      "meaning": "尺子",
+      "example": "I have a ruler."
+    },
+    {
+      "word": "eraser",
+      "meaning": "橡皮",
+      "example": "Where is my eraser?"
+    },
+    {
+      "word": "crayon",
+      "meaning": "蜡笔",
+      "example": "I have a green crayon."
+    },
+    {
+      "word": "pencil box",
+      "meaning": "铅笔盒",
+      "example": "My pencil box is blue."
+    },
+    {
+      "word": "red",
+      "meaning": "红色的",
+      "example": "I see red."
+    },
+    {
+      "word": "green",
+      "meaning": "绿色的",
+      "example": "Show me green."
+    },
+    {
+      "word": "yellow",
+      "meaning": "黄色的",
+      "example": "Colour it yellow."
+    },
+    {
+      "word": "blue",
+      "meaning": "蓝色的",
+      "example": "I like blue."
+    },
+    {
+      "word": "black",
+      "meaning": "黑色的",
+      "example": "I have a black pen."
+    },
+    {
+      "word": "white",
+      "meaning": "白色的",
+      "example": "My bag is white."
+    },
+    {
+      "word": "orange",
+      "meaning": "橙色的；橙子",
+      "example": "I like orange."
+    },
+    {
+      "word": "brown",
+      "meaning": "棕色的",
+      "example": "Colour it brown."
+    },
+    {
+      "word": "one",
+      "meaning": "一",
+      "example": "I have one ruler."
+    },
+    {
+      "word": "two",
+      "meaning": "二",
+      "example": "Show me two."
+    },
+    {
+      "word": "three",
+      "meaning": "三",
+      "example": "I see three birds."
+    },
+    {
+      "word": "four",
+      "meaning": "四",
+      "example": "Jump four times."
+    },
+    {
+      "word": "five",
+      "meaning": "五",
+      "example": "I am five years old."
+    },
+    {
+      "word": "six",
+      "meaning": "六",
+      "example": "I have six pencils."
+    },
+    {
+      "word": "seven",
+      "meaning": "七",
+      "example": "Show me seven."
+    },
+    {
+      "word": "eight",
+      "meaning": "八",
+      "example": "I have eight books."
+    },
+    {
+      "word": "nine",
+      "meaning": "九",
+      "example": "I am nine."
+    },
+    {
+      "word": "ten",
+      "meaning": "十",
+      "example": "I can see ten cats."
+    },
+    {
+      "word": "apple",
+      "meaning": "苹果",
+      "example": "I have an apple."
+    },
+    {
+      "word": "banana",
+      "meaning": "香蕉",
+      "example": "I like bananas."
+    },
+    {
+      "word": "cake",
+      "meaning": "蛋糕",
+      "example": "Have some cake."
+    },
+    {
+      "word": "bread",
+      "meaning": "面包",
+      "example": "I want some bread."
+    },
+    {
+      "word": "egg",
+      "meaning": "鸡蛋",
+      "example": "I have an egg."
+    },
+    {
+      "word": "milk",
+      "meaning": "牛奶",
+      "example": "Drink some milk."
+    },
+    {
+      "word": "water",
+      "meaning": "水",
+      "example": "Drink some water."
+    },
+    {
+      "word": "juice",
+      "meaning": "果汁",
+      "example": "I like juice."
+    },
+    {
+      "word": "rice",
+      "meaning": "米饭",
+      "example": "I like rice."
+    },
+    {
+      "word": "fish",
+      "meaning": "鱼",
+      "example": "I can eat fish."
+    },
+    {
+      "word": "chicken",
+      "meaning": "鸡肉；小鸡",
+      "example": "I like chicken."
+    },
+    {
+      "word": "dog",
+      "meaning": "狗",
+      "example": "I have a dog."
+    },
+    {
+      "word": "cat",
+      "meaning": "猫",
+      "example": "Look at the cat."
+    },
+    {
+      "word": "bird",
+      "meaning": "鸟",
+      "example": "I see a bird."
+    },
+    {
+      "word": "duck",
+      "meaning": "鸭子",
+      "example": "Look at the duck."
+    },
+    {
+      "word": "pig",
+      "meaning": "猪",
+      "example": "Draw a pig."
+    },
+    {
+      "word": "bear",
+      "meaning": "熊",
+      "example": "Look at the bear."
+    },
+    {
+      "word": "elephant",
+      "meaning": "大象",
+      "example": "The elephant is big."
+    },
+    {
+      "word": "monkey",
+      "meaning": "猴子",
+      "example": "Act like a monkey."
+    },
+    {
+      "word": "tiger",
+      "meaning": "老虎",
+      "example": "The tiger is strong."
+    },
+    {
+      "word": "panda",
+      "meaning": "熊猫",
+      "example": "I love the panda."
+    },
+    {
+      "word": "zoo",
+      "meaning": "动物园",
+      "example": "Let's go to the zoo."
+    },
+    {
+      "word": "big",
+      "meaning": "大的",
+      "example": "The elephant is big."
+    },
+    {
+      "word": "small",
+      "meaning": "小的",
+      "example": "The bird is small."
+    },
+    {
+      "word": "long",
+      "meaning": "长的",
+      "example": "It has a long nose."
+    },
+    {
+      "word": "short",
+      "meaning": "短的；矮的",
+      "example": "The ruler is short."
+    },
+    {
+      "word": "tall",
+      "meaning": "高的",
+      "example": "My father is tall."
+    },
+    {
+      "word": "fat",
+      "meaning": "胖的",
+      "example": "The pig is fat."
+    },
+    {
+      "word": "thin",
+      "meaning": "瘦的",
+      "example": "The monkey is thin."
+    },
+    {
+      "word": "head",
+      "meaning": "头",
+      "example": "Touch your head."
+    },
+    {
+      "word": "face",
+      "meaning": "脸",
+      "example": "Wash your face."
+    },
+    {
+      "word": "eye",
+      "meaning": "眼睛",
+      "example": "Close your eyes."
+    },
+    {
+      "word": "ear",
+      "meaning": "耳朵",
+      "example": "Touch your ear."
+    },
+    {
+      "word": "nose",
+      "meaning": "鼻子",
+      "example": "Touch your nose."
+    },
+    {
+      "word": "mouth",
+      "meaning": "嘴巴",
+      "example": "Open your mouth."
+    },
+    {
+      "word": "hand",
+      "meaning": "手",
+      "example": "Clap your hands."
+    },
+    {
+      "word": "arm",
+      "meaning": "手臂",
+      "example": "Wave your arms."
+    },
+    {
+      "word": "leg",
+      "meaning": "腿",
+      "example": "Shake your legs."
+    },
+    {
+      "word": "foot",
+      "meaning": "脚",
+      "example": "Stamp your foot."
+    },
+    {
+      "word": "body",
+      "meaning": "身体",
+      "example": "Shake your body."
+    },
+    {
+      "word": "father",
+      "meaning": "父亲；爸爸",
+      "example": "This is my father."
+    },
+    {
+      "word": "mother",
+      "meaning": "母亲；妈妈",
+      "example": "I love my mother."
+    },
+    {
+      "word": "dad",
+      "meaning": "爸爸（口语）",
+      "example": "Dad, this is Mike."
+    },
+    {
+      "word": "mom",
+      "meaning": "妈妈（口语）",
+      "example": "Mom, I am hungry."
+    },
+    {
+      "word": "brother",
+      "meaning": "兄弟",
+      "example": "He is my brother."
+    },
+    {
+      "word": "sister",
+      "meaning": "姐妹",
+      "example": "She is my sister."
+    },
+    {
+      "word": "grandfather",
+      "meaning": "祖父；外祖父",
+      "example": "My grandfather is kind."
+    },
+    {
+      "word": "grandmother",
+      "meaning": "祖母；外祖母",
+      "example": "I love my grandmother."
+    },
+    {
+      "word": "family",
+      "meaning": "家庭",
+      "example": "This is my family."
+    },
+    {
+      "word": "friend",
+      "meaning": "朋友",
+      "example": "We are friends."
+    },
+    {
+      "word": "boy",
+      "meaning": "男孩",
+      "example": "He is a boy."
+    },
+    {
+      "word": "girl",
+      "meaning": "女孩",
+      "example": "She is a girl."
+    },
+    {
+      "word": "man",
+      "meaning": "男人",
+      "example": "The man is my father."
+    },
+    {
+      "word": "woman",
+      "meaning": "女人",
+      "example": "The woman is my teacher."
+    },
+    {
+      "word": "today",
+      "meaning": "今天",
+      "example": "What day is it today?"
+    },
+    {
+      "word": "Monday",
+      "meaning": "星期一",
+      "example": "Today is Monday."
+    },
+    {
+      "word": "Tuesday",
+      "meaning": "星期二",
+      "example": "We have art on Tuesday."
+    },
+    {
+      "word": "Wednesday",
+      "meaning": "星期三",
+      "example": "I like Wednesday."
+    },
+    {
+      "word": "Thursday",
+      "meaning": "星期四",
+      "example": "We have PE on Thursday."
+    },
+    {
+      "word": "Friday",
+      "meaning": "星期五",
+      "example": "Happy Friday!"
+    },
+    {
+      "word": "Saturday",
+      "meaning": "星期六",
+      "example": "I play on Saturday."
+    },
+    {
+      "word": "Sunday",
+      "meaning": "星期日",
+      "example": "Sunday is fun."
+    },
+    {
+      "word": "morning",
+      "meaning": "早晨；上午",
+      "example": "Good morning."
+    },
+    {
+      "word": "afternoon",
+      "meaning": "下午",
+      "example": "Good afternoon."
+    },
+    {
+      "word": "evening",
+      "meaning": "傍晚；晚上",
+      "example": "Good evening."
+    },
+    {
+      "word": "night",
+      "meaning": "夜晚",
+      "example": "Good night."
+    },
+    {
+      "word": "happy",
+      "meaning": "快乐的",
+      "example": "Happy birthday!"
+    },
+    {
+      "word": "sad",
+      "meaning": "伤心的",
+      "example": "I am sad."
+    },
+    {
+      "word": "tired",
+      "meaning": "疲倦的",
+      "example": "I am tired."
+    },
+    {
+      "word": "hungry",
+      "meaning": "饥饿的",
+      "example": "I am hungry."
+    },
+    {
+      "word": "thirsty",
+      "meaning": "口渴的",
+      "example": "I am thirsty."
+    },
+    {
+      "word": "hot",
+      "meaning": "热的",
+      "example": "It is hot today."
+    },
+    {
+      "word": "cold",
+      "meaning": "冷的",
+      "example": "I feel cold."
+    },
+    {
+      "word": "cool",
+      "meaning": "凉爽的；酷的",
+      "example": "It is cool."
+    },
+    {
+      "word": "warm",
+      "meaning": "温暖的",
+      "example": "It is warm."
+    },
+    {
+      "word": "yes",
+      "meaning": "是；是的",
+      "example": "Yes, it is."
+    },
+    {
+      "word": "no",
+      "meaning": "不；不是",
+      "example": "No, thank you."
+    },
+    {
+      "word": "please",
+      "meaning": "请",
+      "example": "Please sit down."
+    },
+    {
+      "word": "thank",
+      "meaning": "谢谢",
+      "example": "Thank you."
+    },
+    {
+      "word": "sorry",
+      "meaning": "对不起",
+      "example": "I am sorry."
+    },
+    {
+      "word": "OK",
+      "meaning": "好的",
+      "example": "OK, let's go."
+    },
+    {
+      "word": "a",
+      "meaning": "一个",
+      "example": "I have a pen."
+    },
+    {
+      "word": "an",
+      "meaning": "一个（用于元音前）",
+      "example": "I have an apple."
+    },
+    {
+      "word": "the",
+      "meaning": "这/那个；这/那些",
+      "example": "The book is red."
+    },
+    {
+      "word": "in",
+      "meaning": "在……里面",
+      "example": "It is in the bag."
+    },
+    {
+      "word": "on",
+      "meaning": "在……上面",
+      "example": "Put it on the desk."
+    },
+    {
+      "word": "under",
+      "meaning": "在……下面",
+      "example": "It is under the chair."
+    },
+    {
+      "word": "desk",
+      "meaning": "书桌",
+      "example": "Clean your desk."
+    },
+    {
+      "word": "chair",
+      "meaning": "椅子",
+      "example": "Sit on the chair."
+    },
+    {
+      "word": "door",
+      "meaning": "门",
+      "example": "Open the door."
+    },
+    {
+      "word": "window",
+      "meaning": "窗户",
+      "example": "Close the window."
+    },
+    {
+      "word": "table",
+      "meaning": "桌子",
+      "example": "Put it on the table."
+    },
+    {
+      "word": "bed",
+      "meaning": "床",
+      "example": "Go to bed."
+    },
+    {
+      "word": "room",
+      "meaning": "房间",
+      "example": "This is my room."
+    },
+    {
+      "word": "classroom",
+      "meaning": "教室",
+      "example": "We are in the classroom."
+    },
+    {
+      "word": "playground",
+      "meaning": "操场",
+      "example": "We play on the playground."
+    },
+    {
+      "word": "garden",
+      "meaning": "花园",
+      "example": "The garden is beautiful."
+    },
+    {
+      "word": "library",
+      "meaning": "图书馆",
+      "example": "We read in the library."
+    },
+    {
+      "word": "dinner",
+      "meaning": "晚餐；正餐",
+      "example": "Time for dinner."
+    },
+    {
+      "word": "lunch",
+      "meaning": "午餐",
+      "example": "What's for lunch?"
+    },
+    {
+      "word": "breakfast",
+      "meaning": "早餐",
+      "example": "I eat breakfast at seven."
+    },
+    {
+      "word": "home",
+      "meaning": "家",
+      "example": "Go home."
+    },
+    {
+      "word": "love",
+      "meaning": "爱",
+      "example": "I love my family."
+    },
+    {
+      "word": "play",
+      "meaning": "玩；播放",
+      "example": "Let's play!"
+    },
+    {
+      "word": "run",
+      "meaning": "跑",
+      "example": "I can run fast."
+    },
+    {
+      "word": "jump",
+      "meaning": "跳",
+      "example": "Jump up high."
+    },
+    {
+      "word": "walk",
+      "meaning": "走；步行",
+      "example": "Walk to school."
+    },
+    {
+      "word": "swim",
+      "meaning": "游泳",
+      "example": "I can swim."
+    },
+    {
+      "word": "fly",
+      "meaning": "飞；放（风筝）",
+      "example": "Birds can fly."
+    },
+    {
+      "word": "eat",
+      "meaning": "吃",
+      "example": "Eat your lunch."
+    },
+    {
+      "word": "drink",
+      "meaning": "喝",
+      "example": "Drink some water."
+    },
+    {
+      "word": "look",
+      "meaning": "看",
+      "example": "Look at me."
+    },
+    {
+      "word": "see",
+      "meaning": "看见",
+      "example": "I can see a bird."
+    },
+    {
+      "word": "hear",
+      "meaning": "听见",
+      "example": "Can you hear me?"
+    },
+    {
+      "word": "like",
+      "meaning": "喜欢",
+      "example": "I like apples."
+    },
+    {
+      "word": "want",
+      "meaning": "想要",
+      "example": "I want some bread."
+    },
+    {
+      "word": "can",
+      "meaning": "能；会",
+      "example": "I can dance."
+    },
+    {
+      "word": "sunny",
+      "meaning": "晴朗的",
+      "example": "It is sunny today."
+    },
+    {
+      "word": "rainy",
+      "meaning": "下雨的",
+      "example": "It is rainy."
+    },
+    {
+      "word": "windy",
+      "meaning": "有风的",
+      "example": "It is windy."
+    },
+    {
+      "word": "cloudy",
+      "meaning": "多云的",
+      "example": "It is cloudy."
+    },
+    {
+      "word": "snowy",
+      "meaning": "下雪的",
+      "example": "It is snowy."
+    },
+    {
+      "word": "sun",
+      "meaning": "太阳",
+      "example": "The sun is bright."
+    },
+    {
+      "word": "moon",
+      "meaning": "月亮",
+      "example": "Look at the moon."
+    },
+    {
+      "word": "star",
+      "meaning": "星星",
+      "example": "I see a star."
+    },
+    {
+      "word": "sky",
+      "meaning": "天空",
+      "example": "The sky is blue."
+    }
+  ]
+}

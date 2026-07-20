@@ -1,0 +1,1646 @@
+{
+  "grade": "九年级",
+  "description": "人教版九年级（初三）",
+  "words": [
+    {
+      "word": "absent",
+      "meaning": "缺席的",
+      "example": "He was absent from class."
+    },
+    {
+      "word": "absorb",
+      "meaning": "吸收；吸引",
+      "example": "Plants absorb water."
+    },
+    {
+      "word": "abstract",
+      "meaning": "抽象的；摘要",
+      "example": "Abstract art."
+    },
+    {
+      "word": "academic",
+      "meaning": "学术的",
+      "example": "Academic achievement."
+    },
+    {
+      "word": "accent",
+      "meaning": "口音；腔调",
+      "example": "A British accent."
+    },
+    {
+      "word": "access",
+      "meaning": "进入；通道；访问",
+      "example": "Internet access."
+    },
+    {
+      "word": "accompany",
+      "meaning": "陪伴；伴随",
+      "example": "Accompany me."
+    },
+    {
+      "word": "account",
+      "meaning": "账户；描述；原因",
+      "example": "Bank account."
+    },
+    {
+      "word": "accurate",
+      "meaning": "精确的",
+      "example": "Accurate measurement."
+    },
+    {
+      "word": "accuse",
+      "meaning": "指控；指责",
+      "example": "Accuse someone of lying."
+    },
+    {
+      "word": "achievement",
+      "meaning": "成就",
+      "example": "A great achievement."
+    },
+    {
+      "word": "acid",
+      "meaning": "酸；酸的",
+      "example": "Acid rain."
+    },
+    {
+      "word": "acquire",
+      "meaning": "获得；掌握",
+      "example": "Acquire knowledge."
+    },
+    {
+      "word": "adapt",
+      "meaning": "适应；改编",
+      "example": "Adapt to change."
+    },
+    {
+      "word": "addition",
+      "meaning": "增加；加法",
+      "example": "In addition."
+    },
+    {
+      "word": "adjust",
+      "meaning": "调整",
+      "example": "Adjust the volume."
+    },
+    {
+      "word": "admire",
+      "meaning": "钦佩；欣赏",
+      "example": "I admire your courage."
+    },
+    {
+      "word": "admit",
+      "meaning": "承认；允许进入",
+      "example": "I admit I was wrong."
+    },
+    {
+      "word": "adopt",
+      "meaning": "采用；收养",
+      "example": "Adopt a new method."
+    },
+    {
+      "word": "advance",
+      "meaning": "前进；进步；提前",
+      "example": "In advance."
+    },
+    {
+      "word": "advertise",
+      "meaning": "做广告；宣传",
+      "example": "Advertise a product."
+    },
+    {
+      "word": "affair",
+      "meaning": "事情；事务",
+      "example": "A private affair."
+    },
+    {
+      "word": "affect",
+      "meaning": "影响",
+      "example": "It affects your health."
+    },
+    {
+      "word": "afterwards",
+      "meaning": "后来；以后",
+      "example": "I saw him afterwards."
+    },
+    {
+      "word": "agency",
+      "meaning": "机构；代理",
+      "example": "Travel agency."
+    },
+    {
+      "word": "aggressive",
+      "meaning": "有侵略性的；好斗的",
+      "example": "Be less aggressive."
+    },
+    {
+      "word": "agriculture",
+      "meaning": "农业",
+      "example": "Modern agriculture."
+    },
+    {
+      "word": "aim",
+      "meaning": "目标；瞄准",
+      "example": "Aim high."
+    },
+    {
+      "word": "aircraft",
+      "meaning": "飞机；飞行器",
+      "example": "Aircraft carrier."
+    },
+    {
+      "word": "alarm",
+      "meaning": "警报；闹钟",
+      "example": "Set the alarm."
+    },
+    {
+      "word": "album",
+      "meaning": "相册；专辑",
+      "example": "A photo album."
+    },
+    {
+      "word": "alcohol",
+      "meaning": "酒精；酒",
+      "example": "No alcohol."
+    },
+    {
+      "word": "alternative",
+      "meaning": "可供选择的；替代的",
+      "example": "An alternative plan."
+    },
+    {
+      "word": "amount",
+      "meaning": "数量；总额",
+      "example": "A large amount."
+    },
+    {
+      "word": "amuse",
+      "meaning": "逗乐；使发笑",
+      "example": "It amuses me."
+    },
+    {
+      "word": "analyse",
+      "meaning": "分析",
+      "example": "Analyse the problem."
+    },
+    {
+      "word": "anniversary",
+      "meaning": "周年纪念日",
+      "example": "Wedding anniversary."
+    },
+    {
+      "word": "anxious",
+      "meaning": "焦虑的；渴望的",
+      "example": "I feel anxious."
+    },
+    {
+      "word": "anyhow",
+      "meaning": "无论如何",
+      "example": "Anyhow, I did it."
+    },
+    {
+      "word": "apart",
+      "meaning": "分开；隔开",
+      "example": "Live apart."
+    },
+    {
+      "word": "apparent",
+      "meaning": "明显的；表面的",
+      "example": "It is apparent."
+    },
+    {
+      "word": "appeal",
+      "meaning": "呼吁；吸引",
+      "example": "Appeal to young people."
+    },
+    {
+      "word": "apply",
+      "meaning": "申请；应用",
+      "example": "Apply for a job."
+    },
+    {
+      "word": "appoint",
+      "meaning": "任命；约定",
+      "example": "Appoint a leader."
+    },
+    {
+      "word": "appreciate",
+      "meaning": "感激；欣赏",
+      "example": "I appreciate your help."
+    },
+    {
+      "word": "approach",
+      "meaning": "接近；方法",
+      "example": "A new approach."
+    },
+    {
+      "word": "appropriate",
+      "meaning": "适当的",
+      "example": "Appropriate behaviour."
+    },
+    {
+      "word": "approve",
+      "meaning": "批准；赞成",
+      "example": "I approve of your plan."
+    },
+    {
+      "word": "arise",
+      "meaning": "出现；产生",
+      "example": "Problems arise."
+    },
+    {
+      "word": "arrange",
+      "meaning": "安排",
+      "example": "Arrange a meeting."
+    },
+    {
+      "word": "arrest",
+      "meaning": "逮捕",
+      "example": "Under arrest."
+    },
+    {
+      "word": "arrival",
+      "meaning": "到达；抵达",
+      "example": "On arrival."
+    },
+    {
+      "word": "aside",
+      "meaning": "在旁边；留出",
+      "example": "Put aside."
+    },
+    {
+      "word": "aspect",
+      "meaning": "方面",
+      "example": "Every aspect."
+    },
+    {
+      "word": "assess",
+      "meaning": "评估",
+      "example": "Assess the situation."
+    },
+    {
+      "word": "assign",
+      "meaning": "分配；指派",
+      "example": "Assign tasks."
+    },
+    {
+      "word": "assist",
+      "meaning": "协助；帮助",
+      "example": "Assist the teacher."
+    },
+    {
+      "word": "assistant",
+      "meaning": "助手；助理",
+      "example": "An assistant manager."
+    },
+    {
+      "word": "associate",
+      "meaning": "联系；关联",
+      "example": "Associate with others."
+    },
+    {
+      "word": "assume",
+      "meaning": "假设；假定",
+      "example": "I assume you are right."
+    },
+    {
+      "word": "atmosphere",
+      "meaning": "大气；气氛",
+      "example": "A friendly atmosphere."
+    },
+    {
+      "word": "atom",
+      "meaning": "原子",
+      "example": "An atom of hydrogen."
+    },
+    {
+      "word": "attach",
+      "meaning": "粘贴；附上",
+      "example": "Attach a file."
+    },
+    {
+      "word": "attain",
+      "meaning": "达到；获得",
+      "example": "Attain your goal."
+    },
+    {
+      "word": "attempt",
+      "meaning": "尝试",
+      "example": "An attempt to climb."
+    },
+    {
+      "word": "attitude",
+      "meaning": "态度",
+      "example": "A positive attitude."
+    },
+    {
+      "word": "attract",
+      "meaning": "吸引",
+      "example": "Attract attention."
+    },
+    {
+      "word": "author",
+      "meaning": "作者；作家",
+      "example": "My favourite author."
+    },
+    {
+      "word": "authority",
+      "meaning": "权威；当局",
+      "example": "Local authority."
+    },
+    {
+      "word": "automatic",
+      "meaning": "自动的",
+      "example": "Automatic door."
+    },
+    {
+      "word": "available",
+      "meaning": "可用的",
+      "example": "Is this seat available?"
+    },
+    {
+      "word": "average",
+      "meaning": "平均的；普通的",
+      "example": "On average."
+    },
+    {
+      "word": "award",
+      "meaning": "奖品；授予",
+      "example": "Win an award."
+    },
+    {
+      "word": "aware",
+      "meaning": "意识到的",
+      "example": "Be aware of the danger."
+    },
+    {
+      "word": "awkward",
+      "meaning": "尴尬的；笨拙的",
+      "example": "An awkward situation."
+    },
+    {
+      "word": "bar",
+      "meaning": "酒吧；条；栏",
+      "example": "A chocolate bar."
+    },
+    {
+      "word": "barely",
+      "meaning": "几乎不",
+      "example": "I can barely see."
+    },
+    {
+      "word": "barrier",
+      "meaning": "障碍；屏障",
+      "example": "Language barrier."
+    },
+    {
+      "word": "bathe",
+      "meaning": "洗澡；游泳",
+      "example": "Bathe in the sun."
+    },
+    {
+      "word": "bend",
+      "meaning": "弯曲",
+      "example": "The road bends."
+    },
+    {
+      "word": "beneath",
+      "meaning": "在……下方",
+      "example": "Beneath the surface."
+    },
+    {
+      "word": "bid",
+      "meaning": "出价；投标",
+      "example": "Bid for the project."
+    },
+    {
+      "word": "billion",
+      "meaning": "十亿",
+      "example": "Seven billion people."
+    },
+    {
+      "word": "bind",
+      "meaning": "捆绑；结合",
+      "example": "Bind the books."
+    },
+    {
+      "word": "bite",
+      "meaning": "咬；叮",
+      "example": "The dog bit me."
+    },
+    {
+      "word": "blanket",
+      "meaning": "毯子",
+      "example": "A warm blanket."
+    },
+    {
+      "word": "bleed",
+      "meaning": "流血",
+      "example": "The wound is bleeding."
+    },
+    {
+      "word": "bless",
+      "meaning": "祝福；保佑",
+      "example": "God bless you."
+    },
+    {
+      "word": "block",
+      "meaning": "街区；阻塞；块",
+      "example": "A block of flats."
+    },
+    {
+      "word": "blow",
+      "meaning": "吹；打击",
+      "example": "The wind blows."
+    },
+    {
+      "word": "boil",
+      "meaning": "煮沸",
+      "example": "Water boils at 100°C."
+    },
+    {
+      "word": "bomb",
+      "meaning": "炸弹",
+      "example": "Time bomb."
+    },
+    {
+      "word": "bond",
+      "meaning": "联系；纽带；债券",
+      "example": "Family bonds."
+    },
+    {
+      "word": "boom",
+      "meaning": "繁荣；轰鸣",
+      "example": "Economic boom."
+    },
+    {
+      "word": "boot",
+      "meaning": "靴子；启动",
+      "example": "A pair of boots."
+    },
+    {
+      "word": "border",
+      "meaning": "边界；边境",
+      "example": "Cross the border."
+    },
+    {
+      "word": "bother",
+      "meaning": "打扰；麻烦",
+      "example": "Don't bother me."
+    },
+    {
+      "word": "bound",
+      "meaning": "一定会；受约束的；跳跃",
+      "example": "Bound to succeed."
+    },
+    {
+      "word": "brand",
+      "meaning": "品牌",
+      "example": "A famous brand."
+    },
+    {
+      "word": "brief",
+      "meaning": "简短的",
+      "example": "A brief introduction."
+    },
+    {
+      "word": "brilliant",
+      "meaning": "杰出的；明亮的",
+      "example": "A brilliant idea."
+    },
+    {
+      "word": "broad",
+      "meaning": "宽阔的；广泛的",
+      "example": "In a broad sense."
+    },
+    {
+      "word": "budget",
+      "meaning": "预算",
+      "example": "Within the budget."
+    },
+    {
+      "word": "bulletin",
+      "meaning": "公告；简报",
+      "example": "News bulletin."
+    },
+    {
+      "word": "burden",
+      "meaning": "负担；重担",
+      "example": "A heavy burden."
+    },
+    {
+      "word": "burst",
+      "meaning": "爆发；破裂",
+      "example": "Burst into laughter."
+    },
+    {
+      "word": "butcher",
+      "meaning": "屠夫；肉店",
+      "example": "Go to the butcher."
+    },
+    {
+      "word": "calculate",
+      "meaning": "计算",
+      "example": "Calculate the cost."
+    },
+    {
+      "word": "campaign",
+      "meaning": "运动；战役；竞选",
+      "example": "An advertising campaign."
+    },
+    {
+      "word": "capable",
+      "meaning": "有能力的",
+      "example": "I am capable of doing it."
+    },
+    {
+      "word": "capacity",
+      "meaning": "容量；能力",
+      "example": "Full capacity."
+    },
+    {
+      "word": "capture",
+      "meaning": "捕获；俘获",
+      "example": "Capture the moment."
+    },
+    {
+      "word": "carbon",
+      "meaning": "碳",
+      "example": "Carbon dioxide."
+    },
+    {
+      "word": "carpet",
+      "meaning": "地毯",
+      "example": "A red carpet."
+    },
+    {
+      "word": "cattle",
+      "meaning": "牛（总称）",
+      "example": "Raise cattle."
+    },
+    {
+      "word": "cautious",
+      "meaning": "谨慎的",
+      "example": "Be cautious."
+    },
+    {
+      "word": "ceiling",
+      "meaning": "天花板；上限",
+      "example": "Look at the ceiling."
+    },
+    {
+      "word": "ceremony",
+      "meaning": "仪式；典礼",
+      "example": "Graduation ceremony."
+    },
+    {
+      "word": "certificate",
+      "meaning": "证书",
+      "example": "Birth certificate."
+    },
+    {
+      "word": "characteristic",
+      "meaning": "特征；特点",
+      "example": "A key characteristic."
+    },
+    {
+      "word": "charity",
+      "meaning": "慈善；慈善机构",
+      "example": "Give to charity."
+    },
+    {
+      "word": "chase",
+      "meaning": "追逐",
+      "example": "Chase the dream."
+    },
+    {
+      "word": "chemical",
+      "meaning": "化学的；化学品",
+      "example": "Chemical reaction."
+    },
+    {
+      "word": "childhood",
+      "meaning": "童年",
+      "example": "Happy childhood."
+    },
+    {
+      "word": "circumstance",
+      "meaning": "情况；环境",
+      "example": "Under the circumstances."
+    },
+    {
+      "word": "civil",
+      "meaning": "公民的；民事的；文明的",
+      "example": "Civil rights."
+    },
+    {
+      "word": "clash",
+      "meaning": "冲突；撞击",
+      "example": "A clash of opinions."
+    },
+    {
+      "word": "classify",
+      "meaning": "分类",
+      "example": "Classify the books."
+    },
+    {
+      "word": "client",
+      "meaning": "客户",
+      "example": "Serve the client."
+    },
+    {
+      "word": "clue",
+      "meaning": "线索",
+      "example": "Find a clue."
+    },
+    {
+      "word": "collapse",
+      "meaning": "倒塌；崩溃",
+      "example": "The building collapsed."
+    },
+    {
+      "word": "colleague",
+      "meaning": "同事",
+      "example": "A work colleague."
+    },
+    {
+      "word": "combat",
+      "meaning": "战斗；与……战斗",
+      "example": "Combat disease."
+    },
+    {
+      "word": "comment",
+      "meaning": "评论",
+      "example": "Leave a comment."
+    },
+    {
+      "word": "commercial",
+      "meaning": "商业的；广告",
+      "example": "Commercial success."
+    },
+    {
+      "word": "commission",
+      "meaning": "委员会；佣金",
+      "example": "On commission."
+    },
+    {
+      "word": "commit",
+      "meaning": "承诺；犯（罪）",
+      "example": "Commit a crime."
+    },
+    {
+      "word": "committee",
+      "meaning": "委员会",
+      "example": "Join the committee."
+    },
+    {
+      "word": "compete",
+      "meaning": "竞争；比赛",
+      "example": "Compete fairly."
+    },
+    {
+      "word": "complex",
+      "meaning": "复杂的",
+      "example": "A complex problem."
+    },
+    {
+      "word": "component",
+      "meaning": "部件；成分",
+      "example": "A key component."
+    },
+    {
+      "word": "compose",
+      "meaning": "组成；作曲",
+      "example": "Compose a letter."
+    },
+    {
+      "word": "concept",
+      "meaning": "概念",
+      "example": "A new concept."
+    },
+    {
+      "word": "conduct",
+      "meaning": "行为；指挥；实施",
+      "example": "Conduct an experiment."
+    },
+    {
+      "word": "conference",
+      "meaning": "会议；大会",
+      "example": "A press conference."
+    },
+    {
+      "word": "conflict",
+      "meaning": "冲突；矛盾",
+      "example": "Solve the conflict."
+    },
+    {
+      "word": "Congress",
+      "meaning": "国会；代表大会",
+      "example": "The US Congress."
+    },
+    {
+      "word": "consequence",
+      "meaning": "结果；后果",
+      "example": "Face the consequences."
+    },
+    {
+      "word": "conservation",
+      "meaning": "保护；保存",
+      "example": "Water conservation."
+    },
+    {
+      "word": "conservative",
+      "meaning": "保守的；保守派",
+      "example": "A conservative view."
+    },
+    {
+      "word": "considerable",
+      "meaning": "相当大的；可观的",
+      "example": "A considerable amount."
+    },
+    {
+      "word": "consist",
+      "meaning": "由……组成",
+      "example": "Consist of three parts."
+    },
+    {
+      "word": "consistent",
+      "meaning": "一致的；坚持的",
+      "example": "Be consistent."
+    },
+    {
+      "word": "construct",
+      "meaning": "建设；建造",
+      "example": "Construct a bridge."
+    },
+    {
+      "word": "consult",
+      "meaning": "咨询；查阅",
+      "example": "Consult a doctor."
+    },
+    {
+      "word": "consume",
+      "meaning": "消耗；消费",
+      "example": "Consume energy."
+    },
+    {
+      "word": "contact",
+      "meaning": "接触；联系",
+      "example": "Keep in contact."
+    },
+    {
+      "word": "contemporary",
+      "meaning": "当代的；同时代的",
+      "example": "Contemporary art."
+    },
+    {
+      "word": "contest",
+      "meaning": "比赛；竞赛",
+      "example": "Enter a contest."
+    },
+    {
+      "word": "contract",
+      "meaning": "合同；收缩",
+      "example": "Sign a contract."
+    },
+    {
+      "word": "contrast",
+      "meaning": "对比；差异",
+      "example": "In contrast."
+    },
+    {
+      "word": "contribute",
+      "meaning": "贡献；投稿",
+      "example": "Contribute articles."
+    },
+    {
+      "word": "controversy",
+      "meaning": "争议",
+      "example": "Cause controversy."
+    },
+    {
+      "word": "convention",
+      "meaning": "大会；习俗；公约",
+      "example": "By convention."
+    },
+    {
+      "word": "convince",
+      "meaning": "说服",
+      "example": "I convinced him to go."
+    },
+    {
+      "word": "cooperate",
+      "meaning": "合作",
+      "example": "Cooperate with others."
+    },
+    {
+      "word": "corporation",
+      "meaning": "公司；企业",
+      "example": "A large corporation."
+    },
+    {
+      "word": "correspond",
+      "meaning": "符合；通信",
+      "example": "It corresponds to the description."
+    },
+    {
+      "word": "council",
+      "meaning": "委员会；理事会",
+      "example": "City council."
+    },
+    {
+      "word": "counselor",
+      "meaning": "顾问；辅导员",
+      "example": "School counselor."
+    },
+    {
+      "word": "creature",
+      "meaning": "生物；动物",
+      "example": "Strange creatures."
+    },
+    {
+      "word": "credit",
+      "meaning": "信用；学分；称赞",
+      "example": "Credit card."
+    },
+    {
+      "word": "crisis",
+      "meaning": "危机",
+      "example": "Economic crisis."
+    },
+    {
+      "word": "criterion",
+      "meaning": "标准；条件",
+      "example": "Meet the criteria."
+    },
+    {
+      "word": "critical",
+      "meaning": "批评的；关键的",
+      "example": "A critical moment."
+    },
+    {
+      "word": "crop",
+      "meaning": "庄稼；作物",
+      "example": "Grow crops."
+    },
+    {
+      "word": "crucial",
+      "meaning": "至关重要的",
+      "example": "A crucial decision."
+    },
+    {
+      "word": "crystal",
+      "meaning": "水晶；晶体",
+      "example": "Clear as crystal."
+    },
+    {
+      "word": "currency",
+      "meaning": "货币；通货",
+      "example": "Foreign currency."
+    },
+    {
+      "word": "curriculum",
+      "meaning": "课程",
+      "example": "School curriculum."
+    },
+    {
+      "word": "curve",
+      "meaning": "曲线；弯曲",
+      "example": "A learning curve."
+    },
+    {
+      "word": "customs",
+      "meaning": "海关；关税",
+      "example": "Go through customs."
+    },
+    {
+      "word": "database",
+      "meaning": "数据库",
+      "example": "Online database."
+    },
+    {
+      "word": "decline",
+      "meaning": "下降；婉拒",
+      "example": "Decline an invitation."
+    },
+    {
+      "word": "definite",
+      "meaning": "明确的",
+      "example": "A definite answer."
+    },
+    {
+      "word": "definition",
+      "meaning": "定义",
+      "example": "By definition."
+    },
+    {
+      "word": "delete",
+      "meaning": "删除",
+      "example": "Delete the file."
+    },
+    {
+      "word": "delicate",
+      "meaning": "精致的；脆弱的",
+      "example": "A delicate flower."
+    },
+    {
+      "word": "delight",
+      "meaning": "快乐；使高兴",
+      "example": "To my delight."
+    },
+    {
+      "word": "democratic",
+      "meaning": "民主的",
+      "example": "A democratic country."
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "演示；证明；游行",
+      "example": "Demonstrate how to do it."
+    },
+    {
+      "word": "dense",
+      "meaning": "密集的；稠密的",
+      "example": "A dense forest."
+    },
+    {
+      "word": "deny",
+      "meaning": "否认；拒绝",
+      "example": "Deny the fact."
+    },
+    {
+      "word": "depart",
+      "meaning": "出发；离开",
+      "example": "The train departs at ten."
+    },
+    {
+      "word": "deposit",
+      "meaning": "存放；存款；押金",
+      "example": "Bank deposit."
+    },
+    {
+      "word": "depress",
+      "meaning": "使沮丧；按下",
+      "example": "Sad movies depress me."
+    },
+    {
+      "word": "derive",
+      "meaning": "源于；获得",
+      "example": "Derive from Latin."
+    },
+    {
+      "word": "desperate",
+      "meaning": "绝望的；不顾一切的",
+      "example": "In a desperate situation."
+    },
+    {
+      "word": "despite",
+      "meaning": "尽管",
+      "example": "Despite the rain."
+    },
+    {
+      "word": "destination",
+      "meaning": "目的地",
+      "example": "Reach the destination."
+    },
+    {
+      "word": "device",
+      "meaning": "设备；装置",
+      "example": "An electronic device."
+    },
+    {
+      "word": "diet",
+      "meaning": "饮食；节食",
+      "example": "A balanced diet."
+    },
+    {
+      "word": "dimension",
+      "meaning": "维度；尺寸",
+      "example": "Three dimensions."
+    },
+    {
+      "word": "diploma",
+      "meaning": "文凭；毕业证书",
+      "example": "Get a diploma."
+    },
+    {
+      "word": "disable",
+      "meaning": "使残疾；禁用",
+      "example": "Disabled people."
+    },
+    {
+      "word": "disadvantage",
+      "meaning": "缺点；不利",
+      "example": "The disadvantage is."
+    },
+    {
+      "word": "discipline",
+      "meaning": "纪律；学科",
+      "example": "Self-discipline."
+    },
+    {
+      "word": "discount",
+      "meaning": "折扣",
+      "example": "A big discount."
+    },
+    {
+      "word": "distinguish",
+      "meaning": "区分；辨别",
+      "example": "Distinguish right from wrong."
+    },
+    {
+      "word": "distribute",
+      "meaning": "分发；分配",
+      "example": "Distribute food."
+    },
+    {
+      "word": "district",
+      "meaning": "地区；区域",
+      "example": "School district."
+    },
+    {
+      "word": "diverse",
+      "meaning": "多样的；不同的",
+      "example": "Diverse culture."
+    },
+    {
+      "word": "division",
+      "meaning": "部门；划分；除法",
+      "example": "The sales division."
+    },
+    {
+      "word": "domestic",
+      "meaning": "国内的；家庭的",
+      "example": "Domestic flight."
+    },
+    {
+      "word": "dominate",
+      "meaning": "支配；主导",
+      "example": "Dominate the market."
+    },
+    {
+      "word": "draft",
+      "meaning": "草稿；起草",
+      "example": "The first draft."
+    },
+    {
+      "word": "dramatic",
+      "meaning": "戏剧性的；巨大的",
+      "example": "A dramatic change."
+    },
+    {
+      "word": "dynasty",
+      "meaning": "朝代；王朝",
+      "example": "Tang Dynasty."
+    },
+    {
+      "word": "earnest",
+      "meaning": "认真的；真诚的",
+      "example": "In earnest."
+    },
+    {
+      "word": "ease",
+      "meaning": "容易；轻松；缓解",
+      "example": "With ease."
+    },
+    {
+      "word": "edition",
+      "meaning": "版本；版次",
+      "example": "A new edition."
+    },
+    {
+      "word": "editor",
+      "meaning": "编辑",
+      "example": "Chief editor."
+    },
+    {
+      "word": "efficient",
+      "meaning": "高效的",
+      "example": "Energy efficient."
+    },
+    {
+      "word": "elaborate",
+      "meaning": "详细的；精心制作的",
+      "example": "Elaborate design."
+    },
+    {
+      "word": "election",
+      "meaning": "选举",
+      "example": "Presidential election."
+    },
+    {
+      "word": "elegant",
+      "meaning": "优雅的",
+      "example": "An elegant lady."
+    },
+    {
+      "word": "element",
+      "meaning": "元素；要素",
+      "example": "A key element."
+    },
+    {
+      "word": "eliminate",
+      "meaning": "消除；淘汰",
+      "example": "Eliminate mistakes."
+    },
+    {
+      "word": "embrace",
+      "meaning": "拥抱；包含",
+      "example": "Embrace change."
+    },
+    {
+      "word": "emerge",
+      "meaning": "出现；浮现",
+      "example": "Emerge from the water."
+    },
+    {
+      "word": "emergency",
+      "meaning": "紧急情况",
+      "example": "In an emergency."
+    },
+    {
+      "word": "empire",
+      "meaning": "帝国",
+      "example": "Roman Empire."
+    },
+    {
+      "word": "employ",
+      "meaning": "雇佣",
+      "example": "Employ workers."
+    },
+    {
+      "word": "encounter",
+      "meaning": "遭遇；碰到",
+      "example": "Encounter problems."
+    },
+    {
+      "word": "engage",
+      "meaning": "参与；吸引；订婚",
+      "example": "Engage in activities."
+    },
+    {
+      "word": "enormous",
+      "meaning": "巨大的",
+      "example": "An enormous building."
+    },
+    {
+      "word": "ensure",
+      "meaning": "确保",
+      "example": "Ensure safety."
+    },
+    {
+      "word": "enterprise",
+      "meaning": "企业；事业",
+      "example": "A private enterprise."
+    },
+    {
+      "word": "enthusiasm",
+      "meaning": "热情；热忱",
+      "example": "Full of enthusiasm."
+    },
+    {
+      "word": "entire",
+      "meaning": "整个的",
+      "example": "The entire day."
+    },
+    {
+      "word": "entrance",
+      "meaning": "入口；入学",
+      "example": "College entrance exam."
+    },
+    {
+      "word": "envelope",
+      "meaning": "信封",
+      "example": "Open the envelope."
+    },
+    {
+      "word": "episode",
+      "meaning": "片段；一集",
+      "example": "Episode one."
+    },
+    {
+      "word": "equation",
+      "meaning": "方程式",
+      "example": "Mathematical equation."
+    },
+    {
+      "word": "equip",
+      "meaning": "装备；配备",
+      "example": "Equip the room."
+    },
+    {
+      "word": "essay",
+      "meaning": "文章；论文",
+      "example": "Write an essay."
+    },
+    {
+      "word": "essential",
+      "meaning": "必要的；本质的",
+      "example": "Essential skills."
+    },
+    {
+      "word": "establish",
+      "meaning": "建立；设立",
+      "example": "Establish a company."
+    },
+    {
+      "word": "estate",
+      "meaning": "房地产；财产",
+      "example": "Real estate."
+    },
+    {
+      "word": "estimate",
+      "meaning": "估计；估算",
+      "example": "Estimate the cost."
+    },
+    {
+      "word": "evaluate",
+      "meaning": "评估",
+      "example": "Evaluate the result."
+    },
+    {
+      "word": "eventually",
+      "meaning": "最终；终于",
+      "example": "Eventually, we won."
+    },
+    {
+      "word": "evolution",
+      "meaning": "进化；演变",
+      "example": "The theory of evolution."
+    },
+    {
+      "word": "existence",
+      "meaning": "存在",
+      "example": "Come into existence."
+    },
+    {
+      "word": "expand",
+      "meaning": "扩展；膨胀",
+      "example": "Expand business."
+    },
+    {
+      "word": "expense",
+      "meaning": "花费；代价",
+      "example": "At great expense."
+    },
+    {
+      "word": "explore",
+      "meaning": "探索；探险",
+      "example": "Explore the world."
+    },
+    {
+      "word": "explosion",
+      "meaning": "爆炸；激增",
+      "example": "Population explosion."
+    },
+    {
+      "word": "export",
+      "meaning": "出口；输出",
+      "example": "Export goods."
+    },
+    {
+      "word": "expose",
+      "meaning": "暴露；揭露",
+      "example": "Expose the truth."
+    },
+    {
+      "word": "extend",
+      "meaning": "延伸；扩展",
+      "example": "Extend the deadline."
+    },
+    {
+      "word": "extraordinary",
+      "meaning": "非凡的；特别的",
+      "example": "An extraordinary story."
+    },
+    {
+      "word": "extreme",
+      "meaning": "极端的；极度的",
+      "example": "Extreme weather."
+    },
+    {
+      "word": "facility",
+      "meaning": "设施；设备",
+      "example": "Sports facilities."
+    },
+    {
+      "word": "factor",
+      "meaning": "因素；因子",
+      "example": "A key factor."
+    },
+    {
+      "word": "fade",
+      "meaning": "褪色；逐渐消失",
+      "example": "Memories fade."
+    },
+    {
+      "word": "failure",
+      "meaning": "失败",
+      "example": "Failure is the mother of success."
+    },
+    {
+      "word": "fantasy",
+      "meaning": "幻想；想象",
+      "example": "Science fantasy."
+    },
+    {
+      "word": "fashion",
+      "meaning": "时尚；时装",
+      "example": "Fashion show."
+    },
+    {
+      "word": "fatal",
+      "meaning": "致命的",
+      "example": "A fatal mistake."
+    },
+    {
+      "word": "fault",
+      "meaning": "错误；过错",
+      "example": "It's my fault."
+    },
+    {
+      "word": "feast",
+      "meaning": "盛宴；节日",
+      "example": "Spring Festival feast."
+    },
+    {
+      "word": "feature",
+      "meaning": "特征；专题",
+      "example": "Special feature."
+    },
+    {
+      "word": "federal",
+      "meaning": "联邦的",
+      "example": "Federal government."
+    },
+    {
+      "word": "fellow",
+      "meaning": "同伴；伙伴",
+      "example": "My fellow students."
+    },
+    {
+      "word": "female",
+      "meaning": "女性的；雌性的",
+      "example": "A female doctor."
+    },
+    {
+      "word": "figure",
+      "meaning": "数字；人物；外形",
+      "example": "A public figure."
+    },
+    {
+      "word": "finance",
+      "meaning": "金融；财政",
+      "example": "Personal finance."
+    },
+    {
+      "word": "finding",
+      "meaning": "发现；研究结果",
+      "example": "Report findings."
+    },
+    {
+      "word": "firm",
+      "meaning": "公司；坚定的",
+      "example": "A law firm."
+    },
+    {
+      "word": "flame",
+      "meaning": "火焰",
+      "example": "Olympic flame."
+    },
+    {
+      "word": "flash",
+      "meaning": "闪光；闪现",
+      "example": "In a flash."
+    },
+    {
+      "word": "flexible",
+      "meaning": "灵活的；可弯曲的",
+      "example": "Flexible hours."
+    },
+    {
+      "word": "float",
+      "meaning": "漂浮",
+      "example": "Float on water."
+    },
+    {
+      "word": "flood",
+      "meaning": "洪水；淹没",
+      "example": "Flood rescue."
+    },
+    {
+      "word": "flour",
+      "meaning": "面粉",
+      "example": "Wheat flour."
+    },
+    {
+      "word": "flow",
+      "meaning": "流动；流",
+      "example": "The river flows."
+    },
+    {
+      "word": "focus",
+      "meaning": "焦点；集中",
+      "example": "Focus on your goal."
+    },
+    {
+      "word": "fold",
+      "meaning": "折叠",
+      "example": "Fold the paper."
+    },
+    {
+      "word": "folk",
+      "meaning": "民间的；人们",
+      "example": "Folk music."
+    },
+    {
+      "word": "forbid",
+      "meaning": "禁止",
+      "example": "Forbid smoking."
+    },
+    {
+      "word": "former",
+      "meaning": "从前的；前者",
+      "example": "A former teacher."
+    },
+    {
+      "word": "fortune",
+      "meaning": "财富；运气",
+      "example": "Make a fortune."
+    },
+    {
+      "word": "found",
+      "meaning": "建立；创办",
+      "example": "Found a club."
+    },
+    {
+      "word": "framework",
+      "meaning": "框架；结构",
+      "example": "Within the framework."
+    },
+    {
+      "word": "frequency",
+      "meaning": "频率",
+      "example": "High frequency."
+    },
+    {
+      "word": "friction",
+      "meaning": "摩擦；冲突",
+      "example": "Cause friction."
+    },
+    {
+      "word": "frontier",
+      "meaning": "边境；前沿",
+      "example": "Space frontier."
+    },
+    {
+      "word": "fuel",
+      "meaning": "燃料",
+      "example": "Fossil fuel."
+    },
+    {
+      "word": "fulfill",
+      "meaning": "实现；满足",
+      "example": "Fulfill your dream."
+    },
+    {
+      "word": "function",
+      "meaning": "功能；作用",
+      "example": "Main function."
+    },
+    {
+      "word": "fund",
+      "meaning": "基金；资金",
+      "example": "Raise funds."
+    },
+    {
+      "word": "fundamental",
+      "meaning": "基本的；根本的",
+      "example": "Fundamental rights."
+    },
+    {
+      "word": "gap",
+      "meaning": "差距；间隙",
+      "example": "Generation gap."
+    },
+    {
+      "word": "generate",
+      "meaning": "产生；生成",
+      "example": "Generate electricity."
+    },
+    {
+      "word": "generous",
+      "meaning": "慷慨的；大方的",
+      "example": "A generous donation."
+    },
+    {
+      "word": "genius",
+      "meaning": "天才",
+      "example": "A genius idea."
+    },
+    {
+      "word": "genuine",
+      "meaning": "真正的；真诚的",
+      "example": "A genuine smile."
+    },
+    {
+      "word": "gesture",
+      "meaning": "手势；姿态",
+      "example": "A friendly gesture."
+    },
+    {
+      "word": "giant",
+      "meaning": "巨人；巨大的",
+      "example": "A giant company."
+    },
+    {
+      "word": "globe",
+      "meaning": "地球；球体",
+      "example": "Around the globe."
+    },
+    {
+      "word": "glory",
+      "meaning": "光荣；荣耀",
+      "example": "Moment of glory."
+    },
+    {
+      "word": "gradual",
+      "meaning": "逐渐的",
+      "example": "A gradual change."
+    },
+    {
+      "word": "graduate",
+      "meaning": "毕业；毕业生",
+      "example": "Graduate from college."
+    },
+    {
+      "word": "grain",
+      "meaning": "谷物；颗粒",
+      "example": "A grain of rice."
+    },
+    {
+      "word": "grand",
+      "meaning": "宏伟的；重大的",
+      "example": "A grand plan."
+    },
+    {
+      "word": "grant",
+      "meaning": "授予；拨款",
+      "example": "Take it for granted."
+    },
+    {
+      "word": "grasp",
+      "meaning": "抓紧；理解",
+      "example": "Grasp the meaning."
+    },
+    {
+      "word": "gravity",
+      "meaning": "重力；严重性",
+      "example": "Law of gravity."
+    },
+    {
+      "word": "guarantee",
+      "meaning": "保证；担保",
+      "example": "Money-back guarantee."
+    },
+    {
+      "word": "guilty",
+      "meaning": "有罪的；内疚的",
+      "example": "Feel guilty."
+    },
+    {
+      "word": "handle",
+      "meaning": "处理；手柄",
+      "example": "Handle the problem."
+    },
+    {
+      "word": "harbor",
+      "meaning": "港口",
+      "example": "A busy harbor."
+    },
+    {
+      "word": "harmony",
+      "meaning": "和谐；融洽",
+      "example": "Live in harmony."
+    },
+    {
+      "word": "harsh",
+      "meaning": "严厉的；恶劣的",
+      "example": "A harsh winter."
+    },
+    {
+      "word": "harvest",
+      "meaning": "收获；收割",
+      "example": "Harvest time."
+    },
+    {
+      "word": "headline",
+      "meaning": "标题；头条",
+      "example": "News headline."
+    },
+    {
+      "word": "heal",
+      "meaning": "治愈；愈合",
+      "example": "Time heals."
+    }
+  ]
+}

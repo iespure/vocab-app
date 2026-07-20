@@ -1,0 +1,746 @@
+{
+  "grade": "五年级",
+  "description": "人教版 PEP 五年级",
+  "words": [
+    {
+      "word": "village",
+      "meaning": "村庄；乡村",
+      "example": "I live in a village."
+    },
+    {
+      "word": "city",
+      "meaning": "城市",
+      "example": "Beijing is a big city."
+    },
+    {
+      "word": "town",
+      "meaning": "城镇",
+      "example": "I live in a small town."
+    },
+    {
+      "word": "building",
+      "meaning": "建筑物；楼房",
+      "example": "The building is tall."
+    },
+    {
+      "word": "bridge",
+      "meaning": "桥",
+      "example": "Cross the bridge."
+    },
+    {
+      "word": "house",
+      "meaning": "房子；住宅",
+      "example": "This is my house."
+    },
+    {
+      "word": "tree",
+      "meaning": "树",
+      "example": "I can climb the tree."
+    },
+    {
+      "word": "flower",
+      "meaning": "花",
+      "example": "The flowers are pretty."
+    },
+    {
+      "word": "grass",
+      "meaning": "草；草地",
+      "example": "Don't walk on the grass."
+    },
+    {
+      "word": "forest",
+      "meaning": "森林",
+      "example": "There is a forest nearby."
+    },
+    {
+      "word": "river",
+      "meaning": "河流",
+      "example": "There is a river in the village."
+    },
+    {
+      "word": "lake",
+      "meaning": "湖",
+      "example": "We go to the lake."
+    },
+    {
+      "word": "sea",
+      "meaning": "大海",
+      "example": "I like the sea."
+    },
+    {
+      "word": "mountain",
+      "meaning": "山；山脉",
+      "example": "The mountain is high."
+    },
+    {
+      "word": "hill",
+      "meaning": "小山；丘陵",
+      "example": "We climb the hill."
+    },
+    {
+      "word": "road",
+      "meaning": "路；道路",
+      "example": "Walk along the road."
+    },
+    {
+      "word": "street",
+      "meaning": "街道",
+      "example": "I live on this street."
+    },
+    {
+      "word": "park",
+      "meaning": "公园",
+      "example": "Let's go to the park."
+    },
+    {
+      "word": "hospital",
+      "meaning": "医院",
+      "example": "He is in the hospital."
+    },
+    {
+      "word": "supermarket",
+      "meaning": "超市",
+      "example": "I go to the supermarket."
+    },
+    {
+      "word": "bookstore",
+      "meaning": "书店",
+      "example": "I like the bookstore."
+    },
+    {
+      "word": "cinema",
+      "meaning": "电影院",
+      "example": "Let's go to the cinema."
+    },
+    {
+      "word": "museum",
+      "meaning": "博物馆",
+      "example": "We visit the museum."
+    },
+    {
+      "word": "hotel",
+      "meaning": "酒店；旅馆",
+      "example": "We stay at a hotel."
+    },
+    {
+      "word": "restaurant",
+      "meaning": "餐厅",
+      "example": "Let's eat at a restaurant."
+    },
+    {
+      "word": "bank",
+      "meaning": "银行",
+      "example": "I go to the bank."
+    },
+    {
+      "word": "post office",
+      "meaning": "邮局",
+      "example": "Go to the post office."
+    },
+    {
+      "word": "bus stop",
+      "meaning": "公交车站",
+      "example": "Wait at the bus stop."
+    },
+    {
+      "word": "train",
+      "meaning": "火车",
+      "example": "I go by train."
+    },
+    {
+      "word": "bus",
+      "meaning": "公共汽车",
+      "example": "I take the bus."
+    },
+    {
+      "word": "car",
+      "meaning": "小汽车",
+      "example": "My dad has a car."
+    },
+    {
+      "word": "bike",
+      "meaning": "自行车",
+      "example": "I ride a bike."
+    },
+    {
+      "word": "plane",
+      "meaning": "飞机",
+      "example": "I go by plane."
+    },
+    {
+      "word": "ship",
+      "meaning": "轮船",
+      "example": "The ship is big."
+    },
+    {
+      "word": "taxi",
+      "meaning": "出租车",
+      "example": "Let's take a taxi."
+    },
+    {
+      "word": "subway",
+      "meaning": "地铁",
+      "example": "Take the subway."
+    },
+    {
+      "word": "turn",
+      "meaning": "转弯",
+      "example": "Turn left."
+    },
+    {
+      "word": "straight",
+      "meaning": "直的；笔直地",
+      "example": "Go straight."
+    },
+    {
+      "word": "cross",
+      "meaning": "穿过；十字路口",
+      "example": "Cross the road."
+    },
+    {
+      "word": "between",
+      "meaning": "在……之间",
+      "example": "Between you and me."
+    },
+    {
+      "word": "behind",
+      "meaning": "在……后面",
+      "example": "He is behind the door."
+    },
+    {
+      "word": "in front of",
+      "meaning": "在……前面",
+      "example": "I sit in front of you."
+    },
+    {
+      "word": "near",
+      "meaning": "在……附近",
+      "example": "Near the park."
+    },
+    {
+      "word": "far",
+      "meaning": "远的",
+      "example": "It is far from here."
+    },
+    {
+      "word": "when",
+      "meaning": "什么时候",
+      "example": "When do you go?"
+    },
+    {
+      "word": "spring",
+      "meaning": "春天",
+      "example": "I like spring."
+    },
+    {
+      "word": "summer",
+      "meaning": "夏天",
+      "example": "Summer is hot."
+    },
+    {
+      "word": "autumn",
+      "meaning": "秋天",
+      "example": "Autumn is cool."
+    },
+    {
+      "word": "fall",
+      "meaning": "秋天（美式）",
+      "example": "Fall is beautiful."
+    },
+    {
+      "word": "winter",
+      "meaning": "冬天",
+      "example": "Winter is cold."
+    },
+    {
+      "word": "season",
+      "meaning": "季节",
+      "example": "Which season do you like?"
+    },
+    {
+      "word": "pick",
+      "meaning": "摘；捡起",
+      "example": "Pick apples."
+    },
+    {
+      "word": "picnic",
+      "meaning": "野餐",
+      "example": "Let's have a picnic."
+    },
+    {
+      "word": "snowman",
+      "meaning": "雪人",
+      "example": "Make a snowman."
+    },
+    {
+      "word": "vacation",
+      "meaning": "假期",
+      "example": "Summer vacation is fun."
+    },
+    {
+      "word": "holiday",
+      "meaning": "假日；节日",
+      "example": "Happy holidays!"
+    },
+    {
+      "word": "Children's Day",
+      "meaning": "儿童节",
+      "example": "Happy Children's Day!"
+    },
+    {
+      "word": "New Year",
+      "meaning": "新年",
+      "example": "Happy New Year!"
+    },
+    {
+      "word": "birthday",
+      "meaning": "生日",
+      "example": "Happy birthday!"
+    },
+    {
+      "word": "party",
+      "meaning": "聚会；派对",
+      "example": "Come to my party."
+    },
+    {
+      "word": "gift",
+      "meaning": "礼物",
+      "example": "Thank you for the gift."
+    },
+    {
+      "word": "present",
+      "meaning": "礼物；现在的",
+      "example": "Here is your present."
+    },
+    {
+      "word": "card",
+      "meaning": "卡片",
+      "example": "I made a card."
+    },
+    {
+      "word": "kite",
+      "meaning": "风筝",
+      "example": "Fly a kite."
+    },
+    {
+      "word": "ball",
+      "meaning": "球",
+      "example": "Throw the ball."
+    },
+    {
+      "word": "game",
+      "meaning": "游戏；比赛",
+      "example": "Let's play a game."
+    },
+    {
+      "word": "chess",
+      "meaning": "国际象棋",
+      "example": "I play chess."
+    },
+    {
+      "word": "swimming",
+      "meaning": "游泳（名词）",
+      "example": "Go swimming."
+    },
+    {
+      "word": "running",
+      "meaning": "跑步",
+      "example": "I like running."
+    },
+    {
+      "word": "skating",
+      "meaning": "滑冰",
+      "example": "Go skating."
+    },
+    {
+      "word": "hiking",
+      "meaning": "徒步旅行",
+      "example": "Go hiking."
+    },
+    {
+      "word": "camping",
+      "meaning": "野营",
+      "example": "Go camping."
+    },
+    {
+      "word": "fishing",
+      "meaning": "钓鱼",
+      "example": "Go fishing."
+    },
+    {
+      "word": "favourite",
+      "meaning": "最喜欢的",
+      "example": "My favourite fruit is apple."
+    },
+    {
+      "word": "delicious",
+      "meaning": "美味的",
+      "example": "It is delicious!"
+    },
+    {
+      "word": "fresh",
+      "meaning": "新鲜的",
+      "example": "Fresh air."
+    },
+    {
+      "word": "healthy",
+      "meaning": "健康的",
+      "example": "Eat healthy food."
+    },
+    {
+      "word": "sweet",
+      "meaning": "甜的",
+      "example": "It is sweet."
+    },
+    {
+      "word": "salty",
+      "meaning": "咸的",
+      "example": "It is too salty."
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的",
+      "example": "The lemon is sour."
+    },
+    {
+      "word": "bitter",
+      "meaning": "苦的",
+      "example": "It tastes bitter."
+    },
+    {
+      "word": "hungry",
+      "meaning": "饥饿的",
+      "example": "I am hungry."
+    },
+    {
+      "word": "favourite",
+      "meaning": "最喜爱的",
+      "example": "My favourite colour is blue."
+    },
+    {
+      "word": "weekend",
+      "meaning": "周末",
+      "example": "I play on the weekend."
+    },
+    {
+      "word": "often",
+      "meaning": "经常",
+      "example": "I often read books."
+    },
+    {
+      "word": "sometimes",
+      "meaning": "有时候",
+      "example": "I sometimes go swimming."
+    },
+    {
+      "word": "schedule",
+      "meaning": "日程表；时间表",
+      "example": "Look at my schedule."
+    },
+    {
+      "word": "exercise",
+      "meaning": "锻炼；练习",
+      "example": "Do more exercise."
+    },
+    {
+      "word": "stay",
+      "meaning": "停留；待",
+      "example": "Stay at home."
+    },
+    {
+      "word": "meet",
+      "meaning": "遇见；见面",
+      "example": "Nice to meet you."
+    },
+    {
+      "word": "visit",
+      "meaning": "参观；拜访",
+      "example": "Visit my grandparents."
+    },
+    {
+      "word": "travel",
+      "meaning": "旅行",
+      "example": "I like to travel."
+    },
+    {
+      "word": "trip",
+      "meaning": "旅行；行程",
+      "example": "Have a good trip."
+    },
+    {
+      "word": "next",
+      "meaning": "下一个",
+      "example": "Next week."
+    },
+    {
+      "word": "last",
+      "meaning": "上一个；最后的",
+      "example": "Last night."
+    },
+    {
+      "word": "ago",
+      "meaning": "以前",
+      "example": "Three days ago."
+    },
+    {
+      "word": "before",
+      "meaning": "在……以前",
+      "example": "Before dinner."
+    },
+    {
+      "word": "after",
+      "meaning": "在……以后",
+      "example": "After school."
+    },
+    {
+      "word": "study",
+      "meaning": "学习；研究",
+      "example": "I study English."
+    },
+    {
+      "word": "practise",
+      "meaning": "练习",
+      "example": "Practise every day."
+    },
+    {
+      "word": "finish",
+      "meaning": "完成",
+      "example": "Finish your homework."
+    },
+    {
+      "word": "start",
+      "meaning": "开始",
+      "example": "Start now."
+    },
+    {
+      "word": "begin",
+      "meaning": "开始",
+      "example": "Class begins."
+    },
+    {
+      "word": "dream",
+      "meaning": "梦；梦想",
+      "example": "I have a dream."
+    },
+    {
+      "word": "wish",
+      "meaning": "希望；祝愿",
+      "example": "I wish you well."
+    },
+    {
+      "word": "hope",
+      "meaning": "希望",
+      "example": "I hope so."
+    },
+    {
+      "word": "feel",
+      "meaning": "感觉；感受到",
+      "example": "I feel happy."
+    },
+    {
+      "word": "keep",
+      "meaning": "保持；留住",
+      "example": "Keep quiet."
+    },
+    {
+      "word": "leave",
+      "meaning": "离开；留下",
+      "example": "Don't leave me."
+    },
+    {
+      "word": "remember",
+      "meaning": "记住",
+      "example": "Remember the rules."
+    },
+    {
+      "word": "forget",
+      "meaning": "忘记",
+      "example": "Don't forget your bag."
+    },
+    {
+      "word": "borrow",
+      "meaning": "借入",
+      "example": "Can I borrow a pen?"
+    },
+    {
+      "word": "excuse",
+      "meaning": "原谅；借口",
+      "example": "Excuse me."
+    },
+    {
+      "word": "problem",
+      "meaning": "问题；难题",
+      "example": "No problem."
+    },
+    {
+      "word": "wrong",
+      "meaning": "错误的",
+      "example": "What's wrong?"
+    },
+    {
+      "word": "different",
+      "meaning": "不同的",
+      "example": "We are different."
+    },
+    {
+      "word": "same",
+      "meaning": "相同的",
+      "example": "The same as you."
+    },
+    {
+      "word": "each",
+      "meaning": "每个",
+      "example": "Each student has a book."
+    },
+    {
+      "word": "every",
+      "meaning": "每一个",
+      "example": "Every day."
+    },
+    {
+      "word": "both",
+      "meaning": "两者都",
+      "example": "Both of us."
+    },
+    {
+      "word": "all",
+      "meaning": "所有的",
+      "example": "All of them."
+    },
+    {
+      "word": "other",
+      "meaning": "其他的",
+      "example": "The other one."
+    },
+    {
+      "word": "only",
+      "meaning": "仅仅；唯一的",
+      "example": "Only one left."
+    },
+    {
+      "word": "still",
+      "meaning": "仍然；还",
+      "example": "I am still here."
+    },
+    {
+      "word": "again",
+      "meaning": "再一次",
+      "example": "Try again."
+    },
+    {
+      "word": "already",
+      "meaning": "已经",
+      "example": "I have already finished."
+    },
+    {
+      "word": "yet",
+      "meaning": "还（否定）；已经（疑问）",
+      "example": "Not yet."
+    },
+    {
+      "word": "later",
+      "meaning": "以后；后来",
+      "example": "See you later."
+    },
+    {
+      "word": "early",
+      "meaning": "早的；提早",
+      "example": "Get up early."
+    },
+    {
+      "word": "late",
+      "meaning": "晚的；迟的",
+      "example": "Don't be late."
+    },
+    {
+      "word": "quick",
+      "meaning": "快的",
+      "example": "Be quick!"
+    },
+    {
+      "word": "fast",
+      "meaning": "快的；快速地",
+      "example": "He runs fast."
+    },
+    {
+      "word": "slow",
+      "meaning": "慢的",
+      "example": "Slow down."
+    },
+    {
+      "word": "easy",
+      "meaning": "容易的",
+      "example": "It's easy."
+    },
+    {
+      "word": "difficult",
+      "meaning": "困难的",
+      "example": "It is difficult."
+    },
+    {
+      "word": "important",
+      "meaning": "重要的",
+      "example": "This is important."
+    },
+    {
+      "word": "busy",
+      "meaning": "忙碌的",
+      "example": "I am busy."
+    },
+    {
+      "word": "free",
+      "meaning": "自由的；免费的；空闲的",
+      "example": "Are you free?"
+    },
+    {
+      "word": "loud",
+      "meaning": "大声的",
+      "example": "Too loud."
+    },
+    {
+      "word": "quiet",
+      "meaning": "安静的",
+      "example": "Keep quiet."
+    },
+    {
+      "word": "noisy",
+      "meaning": "吵闹的",
+      "example": "It is noisy."
+    },
+    {
+      "word": "afraid",
+      "meaning": "害怕的",
+      "example": "Don't be afraid."
+    },
+    {
+      "word": "angry",
+      "meaning": "生气的",
+      "example": "He is angry."
+    },
+    {
+      "word": "excited",
+      "meaning": "兴奋的",
+      "example": "I am so excited!"
+    },
+    {
+      "word": "bored",
+      "meaning": "无聊的",
+      "example": "I feel bored."
+    },
+    {
+      "word": "surprised",
+      "meaning": "惊讶的",
+      "example": "I am surprised."
+    },
+    {
+      "word": "worried",
+      "meaning": "担心的",
+      "example": "Don't be worried."
+    },
+    {
+      "word": "come true",
+      "meaning": "实现；成真",
+      "example": "Dreams come true."
+    }
+  ]
+}
