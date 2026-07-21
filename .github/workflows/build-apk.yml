@@ -3,7 +3,7 @@ name: Build APK
 on:
   push:
     branches: [main, master]
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
 
 jobs:
   build:
@@ -35,13 +35,16 @@ jobs:
         run: pip install flet
 
       - name: Setup Android SDK
+        env:
+          ANDROID_HOME: /opt/android-sdk
         run: |
-          mkdir -p $ANDROID_HOME/cmdline-tools
+          sudo mkdir -p $ANDROID_HOME/cmdline-tools
+          sudo chown -R $USER:$USER $ANDROID_HOME
           cd /tmp
           wget -q https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
           unzip -qo commandlinetools-linux-11076708_latest.zip
           mv cmdline-tools $ANDROID_HOME/cmdline-tools/latest
-          echo "ANDROID_HOME=$HOME/android-sdk" >> $GITHUB_ENV
+          echo "ANDROID_HOME=$ANDROID_HOME" >> $GITHUB_ENV
           echo "$ANDROID_HOME/cmdline-tools/latest/bin" >> $GITHUB_PATH
           echo "$ANDROID_HOME/platform-tools" >> $GITHUB_PATH
           yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses 2>/dev/null || true
@@ -53,17 +56,14 @@ jobs:
 
       - name: Build APK
         run: |
-          cd vocab_app
           flet build apk \
-            --project vocab_app \
             --org com.achao.vocab \
             --product "记单词" \
-            --description "义务教育阶段英语单词记忆APP" \
             .
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: vocab-app-release
-          path: vocab_app/build/apk/*.apk
+          path: build/apk/*.apk
           retention-days: 90
