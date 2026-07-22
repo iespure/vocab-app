@@ -35,14 +35,25 @@ jobs:
       - name: Install flet
         run: pip install flet
 
+      - name: Debug env
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          echo "ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT"
+          echo "JAVA_HOME=$JAVA_HOME"
+          flutter config --list
+          which flutter
+          flutter doctor -v || true
+
       - name: Build APK
         run: |
           flet build apk \
             --org com.achao.vocab \
             --product "记单词" \
+            --verbose \
             .
 
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: vocab-app-release
           path: build/apk/*.apk
